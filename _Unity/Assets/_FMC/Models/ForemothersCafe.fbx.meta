@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 966560b9bce8f7447ae7b0293b0f691c
 ModelImporter:
-  serializedVersion: 20200
+  serializedVersion: 24300
   internalIDToNameTable:
   - first:
       74: -4850480422791410750
@@ -357,14 +357,14 @@ ModelImporter:
     materialName: 0
     materialSearch: 1
     materialLocation: 1
+    searchTexturesGlobally: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -377,7 +377,33 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Wreath","Vase.003","Large Bowls","Table","Wreath.002","Rolled
+      Dough","Sourdough.004","Sourdough.001","Mural Placeholder","Mid Room Table.003","Display
+      Shelves","Mid Room Table.004","Paddle (Wall)","Mid Room Chairs.002","Kerosene_Lamp.002","Window
+      Frames.004","Right","Coffee.003","Coffee.002","Left","Ceiling - Dining Room","pan_3_2.001","Front","Paddle
+      (Hanging)","pan_3_2","Bookshelf_Door_Light","Frog Cookies (Display).001","Small
+      Plates.001","Mural Placeholder.001","Scullery Partition","Vase.004","Croissant_01","Display
+      Case Partitions","Cabinet","Flour_Open","Coffee.005","Coffee Table","Telephone","Window
+      Frames.005","Mid Room Table.002","Lamp","Coffee.001","Interior Trim","Baking
+      Table Cookies (Bare)","Baking Table","Basket.003","Kerosene_Lamp.003","Cobblestone
+      Base","Bun_HotCross","Bookshelf.001","Bookshelf","Roof Pitches","Croissant_01.002","Window
+      Pane Frames","Roof Shingles","Sourdough.002","Register Counter","Frog Cookies
+      (Display) Details.001","Baking Table Cookies (Iced)","Display Case","Ceiling
+      - Scullery","Kerosene_Lamp.001","Bun_Kaiser.001","Roll_01","Floor - Scullery","Sourdough","Vase.005","Front
+      Door","Mid Room Chairs.003","Cooling Rack Shelves","Sign (Corner)","Cooling
+      Rack Shelves.002","Rye Bread Sliced","Small Plates","Exterior Bricks.001","Mid
+      Room Chairs.004","Vase.001","Plate.002","Back","Baking Table Icing Bag","Wreath.001","Kitchen
+      Sofa","Roll_01.001","Mid Room Chairs","Frog Cookies (Cooling).004","Basket","Window
+      Sills","Basket_Tray.001","Window Frames","Coffee.004","Kerosene_Lamp.005","Frog
+      Cookies (Cooling).005","Floor - Dining Room","Croissant_01.003","Front Door
+      Stairs","Basket_Tray","Frog Cookies (Display)","Baking Table Rolling Pin","Exterior
+      Bricks","Scullery Cabinet","Mid Room Table.001","Frog Cookies (Cooling).001","Old_Antique_Cash_Register_Model","Sourdough.003","Cooling
+      Rack Shelves.001","Sidewalk","Plate.001","Shelf Tea Cups","Croissant_01.001","Bun_Kaiser","Crisp
+      Bread on Paddle","Paddle (Wall).001","Newspaper Clipping.001","Mid Room Chairs.001","Baking
+      Table Mint Leaves","Vase.006","Sign (Front)","Cabinet Doors.002","Newspaper
+      Clipping","Interior - Scullery","Flour_Open.001","Vase","Vase.002","Interior
+      - Dining Room","Frog Cookies (Cooling).002","Street"],"padding":[256,256,256,77,256,128,256,256,125,79,59,77,256,92,256,6,18,256,256,18,11,256,29,159,175,115,256,256,99,60,256,256,52,22,135,256,155,148,6,79,256,256,22,256,60,112,256,26,256,45,65,11,256,28,18,206,43,256,256,42,16,256,233,256,16,256,256,54,93,18,93,39,256,256,9,59,256,256,30,256,256,46,256,76,256,168,67,108,26,256,256,256,11,256,92,103,256,256,9,59,78,256,184,256,39,11,256,256,256,256,108,178,256,66,256,256,61,88,209,12,135,256,256,10,256,1],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -387,10 +413,12 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
     fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 1
@@ -402,6 +430,10 @@ ModelImporter:
     skinWeightsMode: 0
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
@@ -412,6 +444,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -444,6 +477,8 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
