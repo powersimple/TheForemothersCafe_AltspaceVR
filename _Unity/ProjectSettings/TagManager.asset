@@ -2,41 +2,72 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - __BA_NameTag
+  - __BA_NameTagMenu
+  - __BA_FootRig
+  - __BA_PlayerHead
+  - __BA_UNUSED0
+  - __BA_UNUSED1
+  - __BA_TriggerIndex
+  - __BA_PlayerTorso
+  - __BA_PlayerLegs
+  - __BA_LocalPlayer
+  - __BA_PlayerLeftHand
+  - __BA_PlayerRightHand
+  - __BA_LocalPlayerFeet
+  - __BA_UserTag0
+  - __BA_UserTag1
+  - __BA_UserTag2
+  - __BA_UserTag3
+  - __BA_UserTag4
+  - __BA_UserTag5
+  - __BA_UserTag6
+  - __BA_UserTag7
+  - __BA_UserTag8
+  - __BA_UserTag9
+  - __BA_UserTag10
+  - __BA_UserTag11
+  - __BA_UserTag12
+  - __BA_UserTag13
+  - __BA_UserTag14
+  - MenuWorldSpace
+  - VRPlayerContextMenu
+  - PortalBall
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - UserLayer1
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - UserLayer2
+  - UserLayer3
+  - UserLayer4
+  - UserLayer5
+  - UserLayer6
+  - UserLayer7
+  - UserLayer8
+  - UserLayer9
+  - UserLayer10
+  - UserLayer11
+  - UserLayer12
+  - NetworkPlayer
+  - RPMAvatarHead
+  - RPMAvatarBody
+  - Grabbable
+  - HandColliders
+  - Menu
+  - PhysicsPlayer
+  - BanterInternal1_DONTUSE
+  - BanterInternal2_DONTUSE
+  - BanterInternal3_DONTUSE
+  - BanterInternal4_DONTUSE
+  - BanterInternal5_DONTUSE
+  - BanterInternal6_DONTUSE
+  - BanterInternal7_DONTUSE
+  - BanterInternal8_DONTUSE
   m_SortingLayers:
   - name: Default
     uniqueID: 0
@@ -50,27 +81,3 @@ TagManager:
   - Light Layer 5
   - Light Layer 6
   - Light Layer 7
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 

@@ -526,3 +526,383 @@ launch3
 launch4
 $
 Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done
+2026-9-19
+Init...
+Context created
+Tiles: 1
+Loading shader denoisePrepareOIDN.ptx::oxMain...
+Loaded
+Loading shader denoiseFinishOIDN.ptx::oxMain...
+Loaded
+launch1
+launch2
+launch3
+launch4
+^
+launch1
+launch2
+launch3
+launch4
+$
+Done

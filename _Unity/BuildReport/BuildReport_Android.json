@@ -1,0 +1,3839 @@
+{
+    "summaryResult": "Succeeded",
+    "outputPath": "C:/Unity/TheForemothersCafe/_Unity/AssetCache/thefmc/Android",
+    "totalSizeMB": 81.06920623779297,
+    "platform": "Android",
+    "TimeTaken": "2026-09-19 17:54:24",
+    "SummarizeErrors": "",
+    "steps": [
+        {
+            "name": "Build Asset Bundles",
+            "durationTicks": 730438053,
+            "depth": 0,
+            "messages": []
+        },
+        {
+            "name": "Calculate asset bundles to be built",
+            "durationTicks": 450097,
+            "depth": 1,
+            "messages": []
+        },
+        {
+            "name": "Prebuild Cleanup and Recompile",
+            "durationTicks": 119996289,
+            "depth": 1,
+            "messages": []
+        },
+        {
+            "name": "Compile scripts",
+            "durationTicks": 119644928,
+            "depth": 2,
+            "messages": []
+        },
+        {
+            "name": "Generate and validate platform script types",
+            "durationTicks": 283961,
+            "depth": 2,
+            "messages": []
+        },
+        {
+            "name": "Build Scene AssetBundle(s)",
+            "durationTicks": 590015793,
+            "depth": 1,
+            "messages": []
+        },
+        {
+            "name": "Build bundle: e08de843b99d4c95850967cc5c340fba20260919",
+            "durationTicks": 586485684,
+            "depth": 2,
+            "messages": [
+                {
+                    "type": 2,
+                    "content": "Serialization depth limit 10 exceeded at 'UnityEngine.Events::ArgumentCache.m_ObjectArgument'. There may be an object composition cycle in one or more of your serialized classes. Consider rearranging data or use `[SerializeReference]`. \n\nSerialization hierarchy:\n11: UnityEngine.Events::ArgumentCache.m_ObjectArgument\n10: UnityEngine.Events::PersistentCall.m_Arguments\n9: UnityEngine.Events::PersistentCallGroup.m_Calls\n8: UnityEngine.Events::UnityEventBase.m_PersistentCalls\n7: BS::QuickMenuItem.Click\n6: BS::QuickMenuItem.Children\n5: BS::QuickMenuItem.Children\n4: BS::QuickMenuItem.Children\n3: BS::QuickMenuItem.Children\n2: BS::QuickMenuItem.Children\n1: BS::QuickMenuItem.Children\n0: BS::AddToQuickMenu.QuickMenu\n"
+                },
+                {
+                    "type": 2,
+                    "content": "Serialization depth limit 10 exceeded at 'UnityEngine.Events::ArgumentCache.m_ObjectArgument'. There may be an object composition cycle in one or more of your serialized classes. Consider rearranging data or use `[SerializeReference]`. \n\nSerialization hierarchy:\n11: UnityEngine.Events::ArgumentCache.m_ObjectArgument\n10: UnityEngine.Events::PersistentCall.m_Arguments\n9: UnityEngine.Events::PersistentCallGroup.m_Calls\n8: UnityEngine.Events::UnityEventBase.m_PersistentCalls\n7: BS::QuickMenuItem.Click\n6: BS::QuickMenuItem.Children\n5: BS::QuickMenuItem.Children\n4: BS::QuickMenuItem.Children\n3: BS::QuickMenuItem.Children\n2: BS::QuickMenuItem.Children\n1: BS::QuickMenuItem.Children\n0: BS::AddToQuickMenu.QuickMenu\n"
+                }
+            ]
+        },
+        {
+            "name": "Verify Build setup",
+            "durationTicks": 397821,
+            "depth": 3,
+            "messages": []
+        },
+        {
+            "name": "Prepare assets for target platform",
+            "durationTicks": 62600,
+            "depth": 3,
+            "messages": []
+        },
+        {
+            "name": "Building scenes",
+            "durationTicks": 7078578,
+            "depth": 3,
+            "messages": []
+        },
+        {
+            "name": "Building scene Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity",
+            "durationTicks": 7078036,
+            "depth": 4,
+            "messages": [
+                {
+                    "type": 3,
+                    "content": "<color=#4f4f4f>[Banter]</color> <color=#7DF9FF>Removing existing BSStarterUpper if it exists, it will be added at runtime.</color>"
+                },
+                {
+                    "type": 3,
+                    "content": "<color=#4f4f4f>[Banter]</color> <color=#7DF9FF>Stripping Greenfield scene-bundle build marker from shipped scene.</color>"
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (11)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (8)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (14)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (19)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (18)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (9)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (10)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (17)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (3)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (13)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (4)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (15)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (22)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (20)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (21)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (7)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (16)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'Model T Path Origin' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (6)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (5)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (1)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'SitTrigger_Simple(Place Parent so red dot matches desired pelvis location)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (2)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                },
+                {
+                    "type": 2,
+                    "content": "Script attached to 'IFX_SitTriggerSimple - LocalCopy (12)' in scene 'Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/e08de843b99d4c95850967cc5c340fba20260919.unity' is missing or no valid script is attached."
+                }
+            ]
+        },
+        {
+            "name": "Writing asset files",
+            "durationTicks": 506394720,
+            "depth": 3,
+            "messages": []
+        },
+        {
+            "name": "Packaging assets - archive:/BuildPlayer-e08de843b99d4c95850967cc5c340fba20260919/BuildPlayer-e08de843b99d4c95850967cc5c340fba20260919.sharedAssets",
+            "durationTicks": 506346766,
+            "depth": 4,
+            "messages": []
+        },
+        {
+            "name": "Creating compressed player package",
+            "durationTicks": 61387779,
+            "depth": 3,
+            "messages": []
+        },
+        {
+            "name": "Postprocess built player",
+            "durationTicks": 294090,
+            "depth": 3,
+            "messages": []
+        }
+    ],
+    "summary": {
+        "buildStartTimeTicks": 639254515900441463,
+        "totalTimeTicks": 730438082,
+        "guid": "00000000000000000000000000000000",
+        "platform": 13,
+        "platformGroup": 7,
+        "options": 0,
+        "outputPath": "C:/Unity/TheForemothersCafe/_Unity/AssetCache/thefmc/Android",
+        "totalSize": 85007224,
+        "totalErrors": 0,
+        "totalWarnings": 47,
+        "result": 1,
+        "buildType": 2,
+        "multiProcessEnabled": false
+    },
+    "files": [
+        {
+            "id": 0,
+            "path": "C:/Unity/TheForemothersCafe/_Unity/AssetCache/thefmc/Android/e08de843b99d4c95850967cc5c340fba20260919/BuildPlayer-e08de843b99d4c95850967cc5c340fba20260919",
+            "role": "Scene",
+            "size": 28106284
+        },
+        {
+            "id": 1,
+            "path": "C:/Unity/TheForemothersCafe/_Unity/AssetCache/thefmc/Android/e08de843b99d4c95850967cc5c340fba20260919/BuildPlayer-e08de843b99d4c95850967cc5c340fba20260919.sharedAssets",
+            "role": "SharedAssets",
+            "size": 115947716
+        },
+        {
+            "id": 2,
+            "path": "C:/Unity/TheForemothersCafe/_Unity/AssetCache/thefmc/Android/e08de843b99d4c95850967cc5c340fba20260919/BuildPlayer-e08de843b99d4c95850967cc5c340fba20260919.resource",
+            "role": "StreamingResourceFile",
+            "size": 2364192
+        },
+        {
+            "id": 3,
+            "path": "C:/Unity/TheForemothersCafe/_Unity/AssetCache/thefmc/Android/e08de843b99d4c95850967cc5c340fba20260919",
+            "role": "AssetBundle",
+            "size": 85003010
+        },
+        {
+            "id": 4,
+            "path": "C:/Unity/TheForemothersCafe/_Unity/AssetCache/thefmc/Android/e08de843b99d4c95850967cc5c340fba20260919.manifest",
+            "role": "AssetBundleTextManifest",
+            "size": 2399
+        },
+        {
+            "id": 5,
+            "path": "C:/Unity/TheForemothersCafe/_Unity/AssetCache/thefmc/Android/Android/CAB-e4ba7dbec84ca82e006b0387f14d1c10",
+            "role": "ResourcesFile",
+            "size": 4252
+        },
+        {
+            "id": 6,
+            "path": "C:/Unity/TheForemothersCafe/_Unity/AssetCache/thefmc/Android/Android",
+            "role": "ManifestAssetBundle",
+            "size": 1605
+        },
+        {
+            "id": 7,
+            "path": "C:/Unity/TheForemothersCafe/_Unity/AssetCache/thefmc/Android/Android.manifest",
+            "role": "AssetBundleTextManifest",
+            "size": 210
+        }
+    ],
+    "packedAssets": [
+        {
+            "shortPath": "BuildPlayer-e08de843b99d4c95850967cc5c340fba20260919.sharedAssets",
+            "overhead": 156654,
+            "contents": [
+                {
+                    "id": 1,
+                    "type": "UnityEngine.PreloadData",
+                    "packedSize": 97,
+                    "offset": 154784,
+                    "sourceAssetGUID": "00000000000000000000000000000000",
+                    "sourceAssetPath": ""
+                },
+                {
+                    "id": 2,
+                    "type": "UnityEngine.AssetBundle",
+                    "packedSize": 232,
+                    "offset": 154896,
+                    "sourceAssetGUID": "00000000000000000000000000000000",
+                    "sourceAssetPath": ""
+                },
+                {
+                    "id": 3,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1660,
+                    "offset": 155136,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 4,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1664,
+                    "offset": 156800,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 5,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1664,
+                    "offset": 158464,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 6,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1664,
+                    "offset": 160128,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 7,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1752,
+                    "offset": 161792,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 8,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1664,
+                    "offset": 163552,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 9,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1668,
+                    "offset": 165216,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 10,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1672,
+                    "offset": 166896,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 11,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1668,
+                    "offset": 168576,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 12,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1676,
+                    "offset": 170256,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 13,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1668,
+                    "offset": 171936,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 14,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1700,
+                    "offset": 173616,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 15,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1668,
+                    "offset": 175328,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 16,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1668,
+                    "offset": 177008,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 17,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1672,
+                    "offset": 178688,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 18,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1080,
+                    "offset": 180368,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 19,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1720,
+                    "offset": 181456,
+                    "sourceAssetGUID": "cea2f4132986142409b12321ccac6814",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Antique Bookshelf.mat"
+                },
+                {
+                    "id": 20,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1792,
+                    "offset": 183184,
+                    "sourceAssetGUID": "81e91185c9458b140b5ac4c771fc5f88",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Antique Glass.mat"
+                },
+                {
+                    "id": 21,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1716,
+                    "offset": 184976,
+                    "sourceAssetGUID": "0e4b7dc581184e947a16935c7d387097",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Big Stove Extras.mat"
+                },
+                {
+                    "id": 22,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 186704,
+                    "sourceAssetGUID": "16efe14fa284d3e4bae6b2090f340721",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Black Metal.mat"
+                },
+                {
+                    "id": 23,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1712,
+                    "offset": 188400,
+                    "sourceAssetGUID": "ef7e39a520037a143b842a6156f15551",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Blue Wood.mat"
+                },
+                {
+                    "id": 24,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1532,
+                    "offset": 190112,
+                    "sourceAssetGUID": "4ca7692b37bf826489530acc6952a62f",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Book - James Journey.mat"
+                },
+                {
+                    "id": 25,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1540,
+                    "offset": 191648,
+                    "sourceAssetGUID": "3dff00abf0d8e4dd19625c488352ab41",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Book - LureOfWaterAndWood.mat"
+                },
+                {
+                    "id": 26,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1532,
+                    "offset": 193200,
+                    "sourceAssetGUID": "5dd6e21986e1b024b92e2f2b61a8b394",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Book - Officer Helga.mat"
+                },
+                {
+                    "id": 27,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1528,
+                    "offset": 194736,
+                    "sourceAssetGUID": "a4d36ded035d0ce4d89c53dd76858e7a",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Book - Sour Milk.mat"
+                },
+                {
+                    "id": 28,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1528,
+                    "offset": 196272,
+                    "sourceAssetGUID": "82b9568906640064ab7f3a1f3e2db663",
+                    "sourceAssetPath": "Assets/_FMC/Materials/BookSourMilk_IFX.mat"
+                },
+                {
+                    "id": 29,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1700,
+                    "offset": 197808,
+                    "sourceAssetGUID": "771cc90e91314fd4d828c8989bfe85ca",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Brushed Metal.mat"
+                },
+                {
+                    "id": 30,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1700,
+                    "offset": 199520,
+                    "sourceAssetGUID": "c8ee3688df73d8e468504b5cf9d76fd4",
+                    "sourceAssetPath": "Assets/_FMC/Materials/BrushedMetal_IFX.mat"
+                },
+                {
+                    "id": 31,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1756,
+                    "offset": 201232,
+                    "sourceAssetGUID": "9c16769cf5ee2a447afc8041429ef1aa",
+                    "sourceAssetPath": "Assets/_FMC/Materials/CC Credits.mat"
+                },
+                {
+                    "id": 32,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 2372,
+                    "offset": 202992,
+                    "sourceAssetGUID": "f7cdb01f78e0d5f4da986235bc487e85",
+                    "sourceAssetPath": "Assets/_FMC/Materials/CandleFlame_IFX.mat"
+                },
+                {
+                    "id": 33,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1796,
+                    "offset": 205376,
+                    "sourceAssetGUID": "52f20c3a70282184b8f34ade1c045ac6",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Carriage_IFX.mat"
+                },
+                {
+                    "id": 34,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1732,
+                    "offset": 207184,
+                    "sourceAssetGUID": "99438d13ca2a46e499a2caa9adced7a0",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Cathedral.mat"
+                },
+                {
+                    "id": 35,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1804,
+                    "offset": 208928,
+                    "sourceAssetGUID": "d07eba26bceb13344b4412118f6b5a1c",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Cobblestone Base.mat"
+                },
+                {
+                    "id": 36,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1740,
+                    "offset": 210736,
+                    "sourceAssetGUID": "af5d0f5768913a14e8288e838a890497",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Cobblestone Streets.mat"
+                },
+                {
+                    "id": 37,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1692,
+                    "offset": 212480,
+                    "sourceAssetGUID": "8cca0cf3101cf2e408cf80ca6acbe2ee",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Coffee.mat"
+                },
+                {
+                    "id": 38,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 214176,
+                    "sourceAssetGUID": "7423a5bf06c1ef946bab661b9f82af6b",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Coffee_IFX.mat"
+                },
+                {
+                    "id": 39,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1724,
+                    "offset": 215872,
+                    "sourceAssetGUID": "2fc8332daf219fc4ea9500dc197c367b",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Cookie.mat"
+                },
+                {
+                    "id": 40,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1728,
+                    "offset": 217600,
+                    "sourceAssetGUID": "e64c99721d12ce64a8b79bbebc3860ff",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Cookie_IFX.mat"
+                },
+                {
+                    "id": 41,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1084,
+                    "offset": 219328,
+                    "sourceAssetGUID": "0dea634959236904ea34c2a1b4a21647",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Cornflower_IFX.mat"
+                },
+                {
+                    "id": 42,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1700,
+                    "offset": 220416,
+                    "sourceAssetGUID": "b57b76ecb91ec474eb7480b84e0d00b6",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Couch Cushion.mat"
+                },
+                {
+                    "id": 43,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1356,
+                    "offset": 222128,
+                    "sourceAssetGUID": "6be17bf72cd030d42a8bfd5838596aa3",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Daisy_IFX.mat"
+                },
+                {
+                    "id": 44,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1704,
+                    "offset": 223488,
+                    "sourceAssetGUID": "16f4005775b54c846aef130565a1c8f1",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Dark Blue Porcelain.mat"
+                },
+                {
+                    "id": 45,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1708,
+                    "offset": 225200,
+                    "sourceAssetGUID": "a4be1d00afdbd9c4a865ee8133861920",
+                    "sourceAssetPath": "Assets/_FMC/Materials/DarkBluePorcelain_IFX.mat"
+                },
+                {
+                    "id": 46,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 888,
+                    "offset": 226912,
+                    "sourceAssetGUID": "a03c5c3550e696d48b89c1da82de3555",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Dust.mat"
+                },
+                {
+                    "id": 47,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 892,
+                    "offset": 227808,
+                    "sourceAssetGUID": "2d85a4d74ebb823478e02479146ebd93",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Dust_IFX.mat"
+                },
+                {
+                    "id": 48,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1820,
+                    "offset": 228704,
+                    "sourceAssetGUID": "394d7880d7191d84d8624c119a6b426b",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Easel.mat"
+                },
+                {
+                    "id": 49,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1824,
+                    "offset": 230528,
+                    "sourceAssetGUID": "61cbfad021285e9488e21ca5d72287d7",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Easel_IFX.mat"
+                },
+                {
+                    "id": 50,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1712,
+                    "offset": 232352,
+                    "sourceAssetGUID": "3059806a57fc48b4cbd4d6a1bc51ca6a",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Floor Boards.mat"
+                },
+                {
+                    "id": 51,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1352,
+                    "offset": 234064,
+                    "sourceAssetGUID": "23812d3587503cf4f806723f1653d548",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Flowers/Daisy.mat"
+                },
+                {
+                    "id": 52,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1076,
+                    "offset": 235424,
+                    "sourceAssetGUID": "755998020844fb646a37670f5f59fa8b",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Flowers/Poppy.mat"
+                },
+                {
+                    "id": 53,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 988,
+                    "offset": 236512,
+                    "sourceAssetGUID": "f10d4fc87b153d844a29ab8be2244465",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Foremother 1.mat"
+                },
+                {
+                    "id": 54,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 988,
+                    "offset": 237504,
+                    "sourceAssetGUID": "9ff6f358e740acc49bb5b003dd1287bc",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Foremother 2.mat"
+                },
+                {
+                    "id": 55,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 988,
+                    "offset": 238496,
+                    "sourceAssetGUID": "b94264489684f7a459e4ea7cf1bf1bf8",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Foremother 3.mat"
+                },
+                {
+                    "id": 56,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 988,
+                    "offset": 239488,
+                    "sourceAssetGUID": "c42cb129a02875043a1407f5de15f558",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Foremother 4.mat"
+                },
+                {
+                    "id": 57,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 240480,
+                    "sourceAssetGUID": "a4b4d05121b90644ea81dd75fec4739a",
+                    "sourceAssetPath": "Assets/_FMC/Materials/FreshBread/Basket_Light.mat"
+                },
+                {
+                    "id": 58,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1700,
+                    "offset": 242176,
+                    "sourceAssetGUID": "d030f7ae8cea73a448c3cf92c5f8143d",
+                    "sourceAssetPath": "Assets/_FMC/Materials/FreshBread/Bun_Kaiser_02.mat"
+                },
+                {
+                    "id": 59,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1688,
+                    "offset": 243888,
+                    "sourceAssetGUID": "71beda0d3c3816a4ca32d7eef00af931",
+                    "sourceAssetPath": "Assets/_FMC/Materials/FreshBread/Buns.mat"
+                },
+                {
+                    "id": 60,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1692,
+                    "offset": 245584,
+                    "sourceAssetGUID": "0db00faba5d803f41b317de7e6293fb2",
+                    "sourceAssetPath": "Assets/_FMC/Materials/FreshBread/Cloths.mat"
+                },
+                {
+                    "id": 61,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 247280,
+                    "sourceAssetGUID": "8006b118bdd9d15479aa88ad48c843d3",
+                    "sourceAssetPath": "Assets/_FMC/Materials/FreshBread/Croissant_01.mat"
+                },
+                {
+                    "id": 62,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 248976,
+                    "sourceAssetGUID": "6e084133399884149b5c9d3f22ec2c72",
+                    "sourceAssetPath": "Assets/_FMC/Materials/FreshBread/Flour_Wheat.mat"
+                },
+                {
+                    "id": 63,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 250672,
+                    "sourceAssetGUID": "bbb5decb507cb8040b580e70de81adab",
+                    "sourceAssetPath": "Assets/_FMC/Materials/FreshBread/Kaiser_Dough.mat"
+                },
+                {
+                    "id": 64,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1692,
+                    "offset": 252368,
+                    "sourceAssetGUID": "5e8055d7b2fbd5a46acd62ddd424c65f",
+                    "sourceAssetPath": "Assets/_FMC/Materials/FreshBread/Rolls.mat"
+                },
+                {
+                    "id": 65,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1692,
+                    "offset": 254064,
+                    "sourceAssetGUID": "0adcd021753d2e8408be0299aec610c9",
+                    "sourceAssetPath": "Assets/_FMC/Materials/FreshBread/Rye_02.mat"
+                },
+                {
+                    "id": 66,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1704,
+                    "offset": 255760,
+                    "sourceAssetGUID": "f57b8da321b0d774dad6feffa08beaa9",
+                    "sourceAssetPath": "Assets/_FMC/Materials/FreshBread/Sourdough_01_Dough.mat"
+                },
+                {
+                    "id": 67,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 257472,
+                    "sourceAssetGUID": "ad57cbd56588c3946acbd00ef86e1f0b",
+                    "sourceAssetPath": "Assets/_FMC/Materials/FreshBread/Sourdough_03.mat"
+                },
+                {
+                    "id": 68,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 259168,
+                    "sourceAssetGUID": "566b1c557abb1cc43a789c048e2898da",
+                    "sourceAssetPath": "Assets/_FMC/Materials/FreshBread/Wreath_Light.mat"
+                },
+                {
+                    "id": 69,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1844,
+                    "offset": 260864,
+                    "sourceAssetGUID": "59541df06cb08ec46935b4746f60dd05",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Frog Car Mural.mat"
+                },
+                {
+                    "id": 70,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1728,
+                    "offset": 262720,
+                    "sourceAssetGUID": "444fb047fa8cf074984d3af21a501bec",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Front Sign.mat"
+                },
+                {
+                    "id": 71,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1700,
+                    "offset": 264448,
+                    "sourceAssetGUID": "4a9a3dabfd73cfc4581a5cedb51fedf0",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Glass NoAlpha.mat"
+                },
+                {
+                    "id": 72,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1808,
+                    "offset": 266160,
+                    "sourceAssetGUID": "2cac8edcd3cf73d419272ce23cb215c8",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Glass.mat"
+                },
+                {
+                    "id": 73,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1368,
+                    "offset": 267968,
+                    "sourceAssetGUID": "fcdd1c9900d685f4d9be4778d2550db2",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Glowy Paper.mat"
+                },
+                {
+                    "id": 74,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 269344,
+                    "sourceAssetGUID": "e393add2bf14ae147822c562261b61bb",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Green Wood.mat"
+                },
+                {
+                    "id": 75,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1812,
+                    "offset": 271040,
+                    "sourceAssetGUID": "8dee0c911bf734b4ba22902cdc092b44",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Horse_IFX.mat"
+                },
+                {
+                    "id": 76,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 272864,
+                    "sourceAssetGUID": "d67c1f5cca0ab2e4ab2501106dccfa10",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Icing White.mat"
+                },
+                {
+                    "id": 77,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1700,
+                    "offset": 274560,
+                    "sourceAssetGUID": "cc67143032ba77248b458224f601d5e5",
+                    "sourceAssetPath": "Assets/_FMC/Materials/IcingWhite_IFX.mat"
+                },
+                {
+                    "id": 78,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1800,
+                    "offset": 276272,
+                    "sourceAssetGUID": "9aa93c88b6e106c4e97834e869e57698",
+                    "sourceAssetPath": "Assets/_FMC/Materials/KeroseneLampGlass_IFX.mat"
+                },
+                {
+                    "id": 79,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1784,
+                    "offset": 278080,
+                    "sourceAssetGUID": "b9c8b6d50964df64c855dd3a085be932",
+                    "sourceAssetPath": "Assets/_FMC/Materials/KeroseneLamp_IFX.mat"
+                },
+                {
+                    "id": 80,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1384,
+                    "offset": 279872,
+                    "sourceAssetGUID": "c5cedbf48b824b1419e18ddea44455cb",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Lemon Tree/Lemon Bark.mat"
+                },
+                {
+                    "id": 81,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1416,
+                    "offset": 281264,
+                    "sourceAssetGUID": "919766340a0cc574b9c8d588f0f58af4",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Lemon Tree/Lemon Branch.mat"
+                },
+                {
+                    "id": 82,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1716,
+                    "offset": 282688,
+                    "sourceAssetGUID": "d6407878a36798143b2d7d8790a0c46a",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Maroon Panels.mat"
+                },
+                {
+                    "id": 83,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 284416,
+                    "sourceAssetGUID": "8ce8bc27a76e6ff42bf7da6de8c4c44d",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Maroon Walls.mat"
+                },
+                {
+                    "id": 84,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 286112,
+                    "sourceAssetGUID": "97b4886c2af53774eb71de6da222d7d1",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Matte Black.mat"
+                },
+                {
+                    "id": 85,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1700,
+                    "offset": 287808,
+                    "sourceAssetGUID": "bcdefe317ab33324a84c13d929ffd250",
+                    "sourceAssetPath": "Assets/_FMC/Materials/MatteBlack_IFX.mat"
+                },
+                {
+                    "id": 86,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 289520,
+                    "sourceAssetGUID": "1f6e1c4d8620c574d9c2a752f7fd87e0",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Mint Leaf.mat"
+                },
+                {
+                    "id": 87,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 291216,
+                    "sourceAssetGUID": "3664891dbaa687448a9916ee67b63575",
+                    "sourceAssetPath": "Assets/_FMC/Materials/MintLeaf_IFX.mat"
+                },
+                {
+                    "id": 88,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 292912,
+                    "sourceAssetGUID": "ea25af5b61e6eb947b3f29b1f3a7e859",
+                    "sourceAssetPath": "Assets/_FMC/Materials/News Article.mat"
+                },
+                {
+                    "id": 89,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1760,
+                    "offset": 294608,
+                    "sourceAssetGUID": "7b6cfd489a5aeee40bd8f24bd96e472f",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Nimzy3D Credits.mat"
+                },
+                {
+                    "id": 90,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 296368,
+                    "sourceAssetGUID": "7bca59cc43e562d4b9ecc7049803340f",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Old Brass.mat"
+                },
+                {
+                    "id": 91,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 298064,
+                    "sourceAssetGUID": "a02a7d6d44a625b479520bb6d4088320",
+                    "sourceAssetPath": "Assets/_FMC/Materials/OldBrass_IFX.mat"
+                },
+                {
+                    "id": 92,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1788,
+                    "offset": 299760,
+                    "sourceAssetGUID": "cb8ae734a59377649986ca192789bfc5",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Old_Antique_Cash_Register_PBR.mat"
+                },
+                {
+                    "id": 93,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1716,
+                    "offset": 301552,
+                    "sourceAssetGUID": "5ab3796d1e7022b4896f0d65600ece6f",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Ornate Ceiling.mat"
+                },
+                {
+                    "id": 94,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1080,
+                    "offset": 303280,
+                    "sourceAssetGUID": "23d59ad002540814e9d1968ed0a3a9d3",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Poppy_IFX.mat"
+                },
+                {
+                    "id": 95,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1720,
+                    "offset": 304368,
+                    "sourceAssetGUID": "6e5742fcf4702b640b77584360c41b88",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Porcelain.mat"
+                },
+                {
+                    "id": 96,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1724,
+                    "offset": 306096,
+                    "sourceAssetGUID": "0291cd91424f4ac4dad20c51b4374ee3",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Porcelain_IFX.mat"
+                },
+                {
+                    "id": 97,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1696,
+                    "offset": 307824,
+                    "sourceAssetGUID": "fc3da8cfab9ba154f93f0967fcb67554",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Raw Dough.mat"
+                },
+                {
+                    "id": 98,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1756,
+                    "offset": 309520,
+                    "sourceAssetGUID": "f8a3d031a76bffe4787cc6da9cd32d8e",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Reins_IFX.mat"
+                },
+                {
+                    "id": 99,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1712,
+                    "offset": 311280,
+                    "sourceAssetGUID": "b02764e4e3a810b469678c1d367fd93d",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Roof Tiles.mat"
+                },
+                {
+                    "id": 100,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1764,
+                    "offset": 312992,
+                    "sourceAssetGUID": "0f4ac54830c346847b6db665b2af2681",
+                    "sourceAssetPath": "Assets/_FMC/Materials/SWEA.mat"
+                },
+                {
+                    "id": 101,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1716,
+                    "offset": 314768,
+                    "sourceAssetGUID": "4a478962b1d1dd44da3b6e4ea338216e",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Scullery Floor.mat"
+                },
+                {
+                    "id": 102,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1864,
+                    "offset": 316496,
+                    "sourceAssetGUID": "f306cbf490de2df4a88ec9b8934bedc3",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Sheer Curtain.mat"
+                },
+                {
+                    "id": 103,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1792,
+                    "offset": 318368,
+                    "sourceAssetGUID": "0e600e3a0e7403d4c946cf2eaa9f9e6b",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Sidewalk Cobblestone.mat"
+                },
+                {
+                    "id": 104,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1712,
+                    "offset": 320160,
+                    "sourceAssetGUID": "a72ccbe4de5b94760b320aa8cc4dfab4",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Sign-Donate.mat"
+                },
+                {
+                    "id": 105,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1688,
+                    "offset": 321872,
+                    "sourceAssetGUID": "f11955aba489ce845b1b39804a02df3b",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Skin.mat"
+                },
+                {
+                    "id": 106,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1712,
+                    "offset": 323568,
+                    "sourceAssetGUID": "2482536030115c5469340452f3d8b5a3",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Small Stove.mat"
+                },
+                {
+                    "id": 107,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1860,
+                    "offset": 325280,
+                    "sourceAssetGUID": "155afd4ba5f604d4a906f306649352b6",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Smoke.mat"
+                },
+                {
+                    "id": 108,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1864,
+                    "offset": 327152,
+                    "sourceAssetGUID": "3f22cbdf28e19e24192579050c1892d9",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Smoke_IFX.mat"
+                },
+                {
+                    "id": 109,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1056,
+                    "offset": 329024,
+                    "sourceAssetGUID": "18077ac7b8b4a1544b2af4ddf7c4fa84",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Sufferage Banner.mat"
+                },
+                {
+                    "id": 110,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1732,
+                    "offset": 330080,
+                    "sourceAssetGUID": "4fb56f1eeaffd3f44bc64abff8f31f72",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Table Wood.mat"
+                },
+                {
+                    "id": 111,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1424,
+                    "offset": 331824,
+                    "sourceAssetGUID": "1e6d82e2fbcbe1c46b21a1f81749091e",
+                    "sourceAssetPath": "Assets/_FMC/Materials/TerrainLit.mat"
+                },
+                {
+                    "id": 112,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1688,
+                    "offset": 333248,
+                    "sourceAssetGUID": "e5c452893d92fdf449ee5fcd5e776715",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Trim.mat"
+                },
+                {
+                    "id": 113,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1824,
+                    "offset": 334944,
+                    "sourceAssetGUID": "ba8e008278b96584a9590d3566cf3d33",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Tudor Wood.mat"
+                },
+                {
+                    "id": 114,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1752,
+                    "offset": 336768,
+                    "sourceAssetGUID": "c9676308c475b6f40b798a8673498230",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Tungsten Light Bright.mat"
+                },
+                {
+                    "id": 115,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1748,
+                    "offset": 338528,
+                    "sourceAssetGUID": "d4b31ba4fd734464495dada8da70c27f",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Tungsten Light Dim.mat"
+                },
+                {
+                    "id": 116,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1744,
+                    "offset": 340288,
+                    "sourceAssetGUID": "11e788e3c371a1f4c8e348857c89bde8",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Tungsten Light.mat"
+                },
+                {
+                    "id": 117,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1724,
+                    "offset": 342032,
+                    "sourceAssetGUID": "ba8b8b8edcb7e0c459b0485511c35afd",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Weathered Brick Wall.001.mat"
+                },
+                {
+                    "id": 118,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1816,
+                    "offset": 343760,
+                    "sourceAssetGUID": "87ee9f5a5c614dd4d9f35bdf0e987664",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Weathered Brick Wall.mat"
+                },
+                {
+                    "id": 119,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1712,
+                    "offset": 345584,
+                    "sourceAssetGUID": "cb5ea95bae5d0c041827fa1afd7f1c60",
+                    "sourceAssetPath": "Assets/_FMC/Materials/White Wood.mat"
+                },
+                {
+                    "id": 120,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1772,
+                    "offset": 347296,
+                    "sourceAssetGUID": "89ecb5413ece94d4ebf9cef510fb550e",
+                    "sourceAssetPath": "Assets/_FMC/Materials/pans.mat"
+                },
+                {
+                    "id": 121,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 2368,
+                    "offset": 349072,
+                    "sourceAssetGUID": "d960d897cdc819041a73dceb80befb85",
+                    "sourceAssetPath": "Assets/_FMC/Models/Candles/Misc Effects/Materials/CandleFlame.mat"
+                },
+                {
+                    "id": 122,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1692,
+                    "offset": 351440,
+                    "sourceAssetGUID": "475822f8482d0fd4d861c763d1f3934c",
+                    "sourceAssetPath": "Assets/_FMC/Models/Candles/Misc Effects/Materials/candle.mat"
+                },
+                {
+                    "id": 123,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1764,
+                    "offset": 353136,
+                    "sourceAssetGUID": "c9baafbf96e4c304a81da5d5750e5962",
+                    "sourceAssetPath": "Assets/_FMC/Models/Violin/violin-texture/OldViolin.mat"
+                },
+                {
+                    "id": 124,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 888,
+                    "offset": 354912,
+                    "sourceAssetGUID": "a4b9011cd731b7941a6ec891952bd546",
+                    "sourceAssetPath": "Assets/_FMC/Particles/Fire/Materials/realistic_smoke.mat"
+                },
+                {
+                    "id": 125,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1976,
+                    "offset": 355808,
+                    "sourceAssetGUID": "add27d1fda6e73d44832025114a76d95",
+                    "sourceAssetPath": "Assets/_FMC/Shaders/Billboard/Lamp Glow.mat"
+                },
+                {
+                    "id": 126,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 612,
+                    "offset": 357792,
+                    "sourceAssetGUID": "c82a334cf5a5e47978749c210cee72a7",
+                    "sourceAssetPath": "Assets/_FMC/Skybox/Deep Dusk Equirect.mat"
+                },
+                {
+                    "id": 127,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1796,
+                    "offset": 358416,
+                    "sourceAssetGUID": "587094a35812a5b40b6045b251461b4b",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Frog Sign Caption.mat"
+                },
+                {
+                    "id": 128,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1704,
+                    "offset": 360224,
+                    "sourceAssetGUID": "27500139c5d3649a39c57a1341b5198c",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Materials/sign-helenerwin.com.mat"
+                },
+                {
+                    "id": 129,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1768,
+                    "offset": 361936,
+                    "sourceAssetGUID": "d18697bc30567b746875bf66a375fa7e",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Snowflakes.mat"
+                },
+                {
+                    "id": 130,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1804,
+                    "offset": 363712,
+                    "sourceAssetGUID": "31321ba15b8f8eb4c954353edc038b1d",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat"
+                },
+                {
+                    "id": 131,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1664,
+                    "offset": 365520,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 132,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1676,
+                    "offset": 367184,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 133,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1692,
+                    "offset": 368864,
+                    "sourceAssetGUID": "60e5c383b8de073439c592a9f94911f7",
+                    "sourceAssetPath": "Assets/_FMC/Models/Cobblestone_Base.fbx"
+                },
+                {
+                    "id": 134,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1664,
+                    "offset": 370560,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 135,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1664,
+                    "offset": 372224,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 136,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1668,
+                    "offset": 373888,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 137,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1680,
+                    "offset": 375568,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 138,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1668,
+                    "offset": 377248,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 139,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1672,
+                    "offset": 378928,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 140,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1692,
+                    "offset": 380608,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 141,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1668,
+                    "offset": 382304,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 142,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1668,
+                    "offset": 383984,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 143,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1752,
+                    "offset": 385664,
+                    "sourceAssetGUID": "ac54af5834ef68d4fa9539d10f98e809",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Colliders.fbx"
+                },
+                {
+                    "id": 144,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1664,
+                    "offset": 387424,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 145,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1764,
+                    "offset": 389088,
+                    "sourceAssetGUID": "ac54af5834ef68d4fa9539d10f98e809",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Colliders.fbx"
+                },
+                {
+                    "id": 146,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1668,
+                    "offset": 390864,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 147,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1692,
+                    "offset": 392544,
+                    "sourceAssetGUID": "ac54af5834ef68d4fa9539d10f98e809",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Colliders.fbx"
+                },
+                {
+                    "id": 148,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1668,
+                    "offset": 394240,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 149,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1660,
+                    "offset": 395920,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 150,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1664,
+                    "offset": 397584,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 151,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1672,
+                    "offset": 399248,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 152,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1672,
+                    "offset": 400928,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 153,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1660,
+                    "offset": 402608,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 154,
+                    "type": "UnityEngine.Material",
+                    "packedSize": 1768,
+                    "offset": 404272,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 155,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 1398224,
+                    "offset": 406048,
+                    "sourceAssetGUID": "a9c8ecc9e8c3efc4195fc82657d96262",
+                    "sourceAssetPath": "Assets/_FMC/FMC Terrain.asset"
+                },
+                {
+                    "id": 156,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349728,
+                    "offset": 1804272,
+                    "sourceAssetGUID": "008aef731c49c724da3ff04b4c1e7262",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Brick/Brick Sloppy (1K)/TexturesCom_Wall_BrickSloppy_2.5x2.5_1K_albedo.jpg"
+                },
+                {
+                    "id": 157,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349692,
+                    "offset": 2154000,
+                    "sourceAssetGUID": "062de03398065aa448a2135ba0b7a278",
+                    "sourceAssetPath": "Assets/_FMC/Textures/portraits/EmilieRathou.png"
+                },
+                {
+                    "id": 158,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349712,
+                    "offset": 2503696,
+                    "sourceAssetGUID": "0b0465b7f5be899499a360920f0264fd",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Cobblestone Base/CobblestoneStreet2_3x3_1K_normal.jpg"
+                },
+                {
+                    "id": 159,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349696,
+                    "offset": 2853408,
+                    "sourceAssetGUID": "0d2766574ea963d44815706740a3e929",
+                    "sourceAssetPath": "Assets/_FMC/Textures/portraits/FridaSteenhoff.png"
+                },
+                {
+                    "id": 160,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349720,
+                    "offset": 3203104,
+                    "sourceAssetGUID": "0ed5c8552be3db1408a092e2af9e5e5b",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Old Round Roof/TexturesCom_Roofing_RoundOld_1K_albedo.jpg"
+                },
+                {
+                    "id": 161,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349720,
+                    "offset": 3552832,
+                    "sourceAssetGUID": "107cbf5f5b2eda740b23ebc49e4d2906",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Small Stove/IronOven_she_DefaultMaterial_BaseColor.png"
+                },
+                {
+                    "id": 162,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349696,
+                    "offset": 3902560,
+                    "sourceAssetGUID": "1388df4b44e81474a94c3cda2187ae88",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Horse_diff_IFX.jpg"
+                },
+                {
+                    "id": 163,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349732,
+                    "offset": 4252256,
+                    "sourceAssetGUID": "1c8afcfc23af8f945be09fde5da12c3e",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Medieval/TexturesCom_Pavement_CobblestoneMedieval22_albedo.jpg"
+                },
+                {
+                    "id": 164,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 87552,
+                    "offset": 4602000,
+                    "sourceAssetGUID": "1e53968bafed0f04d80ba7d1ca7ffb05",
+                    "sourceAssetPath": "Assets/_FMC/Textures/mint-leaf_IFX.jpg"
+                },
+                {
+                    "id": 165,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174952,
+                    "offset": 4689552,
+                    "sourceAssetGUID": "1f44b733e2162634ca82aace8180a5af",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Cobblestone/CobblestoneWave2_normal.jpg"
+                },
+                {
+                    "id": 166,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174900,
+                    "offset": 4864512,
+                    "sourceAssetGUID": "215ca3803363e7243b7a718ae03ddfde",
+                    "sourceAssetPath": "Assets/_FMC/Textures/FreshBread/Basket_Light.png"
+                },
+                {
+                    "id": 167,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174900,
+                    "offset": 5039424,
+                    "sourceAssetGUID": "2258afa0350f86b408e69fef688504c9",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Pans/pans_color.png"
+                },
+                {
+                    "id": 168,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349696,
+                    "offset": 5214336,
+                    "sourceAssetGUID": "227eee404a9ca5d4fbeb00d9bf6d3848",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Horse_bump_IFX.jpg"
+                },
+                {
+                    "id": 169,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 87540,
+                    "offset": 5564032,
+                    "sourceAssetGUID": "22e8936d1836fce48bf9d1d3f113caf2",
+                    "sourceAssetPath": "Assets/_FMC/Textures/SWEA.jpg"
+                },
+                {
+                    "id": 170,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 626420,
+                    "offset": 5651584,
+                    "sourceAssetGUID": "236acfdea6f91f342a3bf0ab0988d4fa",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Wood Aged/Wood_Aged_1K_albedo.jpg"
+                },
+                {
+                    "id": 171,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 87548,
+                    "offset": 6278016,
+                    "sourceAssetGUID": "2a78b0e585f088541ab488ffda5b9cdf",
+                    "sourceAssetPath": "Assets/_FMC/Textures/mint-leaf.jpg"
+                },
+                {
+                    "id": 172,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 699232,
+                    "offset": 6365568,
+                    "sourceAssetGUID": "2bdce4970d77dcf40875b75c5b2a65de",
+                    "sourceAssetPath": "Assets/_FMC/Textures/HelensCovers/SourMikBookCover.jpg"
+                },
+                {
+                    "id": 173,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 87548,
+                    "offset": 7064800,
+                    "sourceAssetGUID": "2c44f980cf2389e48ac2bcb7f860badb",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Sign_Kaffe.jpg"
+                },
+                {
+                    "id": 174,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 1398276,
+                    "offset": 7152352,
+                    "sourceAssetGUID": "3470e0640bccd124da0588e9422e8e4b",
+                    "sourceAssetPath": "Assets/_FMC/Models/Violin/violin-texture/OldViolin_BaseColor.png"
+                },
+                {
+                    "id": 175,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174900,
+                    "offset": 8550640,
+                    "sourceAssetGUID": "34770dd647246a544b7e35d30752e177",
+                    "sourceAssetPath": "Assets/_FMC/Textures/FreshBread/Croissant_01.png"
+                },
+                {
+                    "id": 176,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 699192,
+                    "offset": 8725552,
+                    "sourceAssetGUID": "3568825d329bb8d4a8c2ce6978106dc0",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Wood Aged/Wood_Aged_1K_ao.jpg"
+                },
+                {
+                    "id": 177,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174940,
+                    "offset": 9424752,
+                    "sourceAssetGUID": "360778776cda946179ad5e236cfaa0ab",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Sign-Donate.jpg"
+                },
+                {
+                    "id": 178,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349704,
+                    "offset": 9599696,
+                    "sourceAssetGUID": "36b02aa72a651014d92d25157053340a",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Mud_2x2_1K_albedo2_IFX.jpg"
+                },
+                {
+                    "id": 179,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 87548,
+                    "offset": 9949408,
+                    "sourceAssetGUID": "37bc659e5d979704b881da40052f7c4a",
+                    "sourceAssetPath": "Assets/_FMC/Textures/lamp-glow.jpg"
+                },
+                {
+                    "id": 180,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349700,
+                    "offset": 10036960,
+                    "sourceAssetGUID": "38314f3da25b4a24394dcbc4b5963665",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Easel/Aboard2high_Normal.jpg"
+                },
+                {
+                    "id": 181,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174948,
+                    "offset": 10386672,
+                    "sourceAssetGUID": "389263b5cbc5c8b45b90a44bea195b1c",
+                    "sourceAssetPath": "Assets/_FMC/Textures/SourMikBookCover_IFX.jpg"
+                },
+                {
+                    "id": 182,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174980,
+                    "offset": 10561632,
+                    "sourceAssetGUID": "3ed5c8e4e1c2c7d4d9a6e4525dfb8698",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Brick/Brick Weathered Mossy (1K)/TexturesCom_Wall_BrickWeatheredMossy_5x2.5_1K_normal.jpg"
+                },
+                {
+                    "id": 183,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174892,
+                    "offset": 10736624,
+                    "sourceAssetGUID": "40743cceda4ffea43bc1d2c30ae67bde",
+                    "sourceAssetPath": "Assets/_FMC/Textures/FreshBread/Buns.png"
+                },
+                {
+                    "id": 184,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174908,
+                    "offset": 10911520,
+                    "sourceAssetGUID": "51b4486b5bf707e4cb32b1ffde187a24",
+                    "sourceAssetPath": "Assets/_FMC/Textures/FreshBread/Sourdough_01_Dough.png"
+                },
+                {
+                    "id": 185,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174900,
+                    "offset": 11086432,
+                    "sourceAssetGUID": "524ef7f56330765408d05da6f38ecf51",
+                    "sourceAssetPath": "Assets/_FMC/Textures/FreshBread/Sourdough_02.png"
+                },
+                {
+                    "id": 186,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 699200,
+                    "offset": 11261344,
+                    "sourceAssetGUID": "52874affa78623446837b86f30d6a029",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Wood Aged/Wood_Aged_1K_roughness.jpg"
+                },
+                {
+                    "id": 187,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174896,
+                    "offset": 11960544,
+                    "sourceAssetGUID": "56ed25ad49bcaad449213069a9e5d2a8",
+                    "sourceAssetPath": "Assets/_FMC/Textures/FreshBread/Rye_02.png"
+                },
+                {
+                    "id": 188,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349712,
+                    "offset": 12135440,
+                    "sourceAssetGUID": "58d8614141b4d4a48ac12e881b3dc6a9",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Lamp1_DefaultMaterial_Normal_IFX.png"
+                },
+                {
+                    "id": 189,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 22012,
+                    "offset": 12485152,
+                    "sourceAssetGUID": "5a60135af9e4c8d4b8c0e93c548bbff3",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Snowflakes.png"
+                },
+                {
+                    "id": 190,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174900,
+                    "offset": 12507168,
+                    "sourceAssetGUID": "5e52ca973e71f31409961ab1b0202e27",
+                    "sourceAssetPath": "Assets/_FMC/Textures/High-Res-Fog.jpg"
+                },
+                {
+                    "id": 191,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349704,
+                    "offset": 12682080,
+                    "sourceAssetGUID": "60749b5ea6ff8bd4a99ad35d61a03ec2",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Easel/Aboard2high_Base_Color.jpg"
+                },
+                {
+                    "id": 192,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349700,
+                    "offset": 13031792,
+                    "sourceAssetGUID": "64ad7640298cad04484bfd32b06f08e3",
+                    "sourceAssetPath": "Assets/_FMC/Textures/portraits/EliseOttesenJensen.png"
+                },
+                {
+                    "id": 193,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174980,
+                    "offset": 13381504,
+                    "sourceAssetGUID": "656914cda776194409c2fcca0b270d53",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Brick/Brick Weathered Mossy (1K)/TexturesCom_Wall_BrickWeatheredMossy_5x2.5_1K_albedo.jpg"
+                },
+                {
+                    "id": 194,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349700,
+                    "offset": 13556496,
+                    "sourceAssetGUID": "65f9beeab367eb345b3b83f54775f501",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Horse_reins_diff_IFX.jpg"
+                },
+                {
+                    "id": 195,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349688,
+                    "offset": 13906208,
+                    "sourceAssetGUID": "67403ddf3182f9b499ef63377e01865f",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Cash Register/Metallic.png"
+                },
+                {
+                    "id": 196,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 4194440,
+                    "offset": 14255904,
+                    "sourceAssetGUID": "6ac5be8710976de4eb2ce909669969a3",
+                    "sourceAssetPath": "Assets/BakeryLightmaps/Main Scene_LMA1_final.hdr"
+                },
+                {
+                    "id": 197,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349712,
+                    "offset": 18450352,
+                    "sourceAssetGUID": "6b86e1949f10e0c41a945f081c153749",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Cobblestone Base/CobblestoneStreet2_3x3_1K_height.jpg"
+                },
+                {
+                    "id": 198,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349696,
+                    "offset": 18800064,
+                    "sourceAssetGUID": "6da30bde34848d94aba6f9204d557f9b",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Bookshelf/T_Bookshelf_D.png"
+                },
+                {
+                    "id": 199,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349732,
+                    "offset": 19149760,
+                    "sourceAssetGUID": "6f0a37d76bdcdd84ea07c1cc84b02cc5",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Medieval/TexturesCom_Pavement_CobblestoneMedieval22_roughness.jpg"
+                },
+                {
+                    "id": 200,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349708,
+                    "offset": 19499504,
+                    "sourceAssetGUID": "74241f5c74047514294b0064b87726b7",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Aboard2high_Base_Color_IFX.jpg"
+                },
+                {
+                    "id": 201,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349696,
+                    "offset": 19849216,
+                    "sourceAssetGUID": "763cb4c2c65cae04a946c7873edc68db",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Horse and Carriage/Carriage_diff.jpg"
+                },
+                {
+                    "id": 202,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 262280,
+                    "offset": 20198912,
+                    "sourceAssetGUID": "76ba13b1f0f6da949be3d0f536a2e312",
+                    "sourceAssetPath": "Assets/BakeryLightmaps/Main Scene_LMA4_final.hdr"
+                },
+                {
+                    "id": 203,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174900,
+                    "offset": 20461200,
+                    "sourceAssetGUID": "76f4f5f602cc47c459d9338aeabeb315",
+                    "sourceAssetPath": "Assets/_FMC/Textures/FreshBread/Kaiser_Dough.png"
+                },
+                {
+                    "id": 204,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349680,
+                    "offset": 20636112,
+                    "sourceAssetGUID": "7ed23342341b4264a87af21606500ca2",
+                    "sourceAssetPath": "Assets/_FMC/Textures/smokeDiffuse_IFX.png"
+                },
+                {
+                    "id": 205,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349716,
+                    "offset": 20985792,
+                    "sourceAssetGUID": "8267d38565c691b428aacbe236e5034e",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Small Stove/IronOven_she_DefaultMaterial_Normal.png"
+                },
+                {
+                    "id": 206,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 16777348,
+                    "offset": 21335520,
+                    "sourceAssetGUID": "835df397c1a66f74a8a2f8ae52c005a7",
+                    "sourceAssetPath": "Assets/BakeryLightmaps/Main Scene_LM0_final.hdr"
+                },
+                {
+                    "id": 207,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174948,
+                    "offset": 38112880,
+                    "sourceAssetGUID": "8666c07fc23854a4ab2d608504f0b0c5",
+                    "sourceAssetPath": "Assets/_FMC/Textures/FrogMuralPlaceholder.png"
+                },
+                {
+                    "id": 208,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349696,
+                    "offset": 38287840,
+                    "sourceAssetGUID": "86a4a2040c44aaf4abceb7369159e91b",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Horse and Carriage/Horse_reins_diff.jpg"
+                },
+                {
+                    "id": 209,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349728,
+                    "offset": 38637536,
+                    "sourceAssetGUID": "87f69c1b6600f594a854525320ae990b",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Brick/Brick Sloppy (1K)/TexturesCom_Wall_BrickSloppy_2.5x2.5_1K_normal.jpg"
+                },
+                {
+                    "id": 210,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174944,
+                    "offset": 38987264,
+                    "sourceAssetGUID": "890a022659de2c942b9419a5933d378f",
+                    "sourceAssetPath": "Assets/_FMC/Textures/HelensCovers/JamesBookCover.jpg"
+                },
+                {
+                    "id": 211,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349720,
+                    "offset": 39162208,
+                    "sourceAssetGUID": "89275b461a654f34fb1d348fd0a7c150",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Wood Panel Ornate/TexturesCom_WoodPanelOrnate02_1K_normal.jpg"
+                },
+                {
+                    "id": 212,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349692,
+                    "offset": 39511936,
+                    "sourceAssetGUID": "8b1496d73f92789479657f5760118623",
+                    "sourceAssetPath": "Assets/_FMC/Textures/News-Article.jpg"
+                },
+                {
+                    "id": 213,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 158564,
+                    "offset": 39861632,
+                    "sourceAssetGUID": "8c03514cee68022409c778c5912c6426",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Lemon Tree/Lemon Bark Normal.png"
+                },
+                {
+                    "id": 214,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349720,
+                    "offset": 40020208,
+                    "sourceAssetGUID": "8cbdb45e3a5f46943ab945b28caddaec",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Big Stove/Iron_Cooker_Fixed_Furnace_Body_Normal.png"
+                },
+                {
+                    "id": 215,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 158560,
+                    "offset": 40369936,
+                    "sourceAssetGUID": "8d928fcad34ba0242a75b360decfed98",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Lemon Tree/Lemon Bark Color.png"
+                },
+                {
+                    "id": 216,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 158556,
+                    "offset": 40528496,
+                    "sourceAssetGUID": "905fcc6beddfea24fbf394e07016e5b3",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Pans/pans_normal.png"
+                },
+                {
+                    "id": 217,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349708,
+                    "offset": 40687056,
+                    "sourceAssetGUID": "906a7c9dc7ddc8741bbf0c0c13825afc",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Cobblestone Base/CobblestoneStreet2_3x3_1K_ao.jpg"
+                },
+                {
+                    "id": 218,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349692,
+                    "offset": 41036768,
+                    "sourceAssetGUID": "912401c4abf50974287b038014a1f81a",
+                    "sourceAssetPath": "Assets/_FMC/Textures/glowy_paper.jpg"
+                },
+                {
+                    "id": 219,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174976,
+                    "offset": 41386464,
+                    "sourceAssetGUID": "938d1b639bce741eb913b74eab72cf91",
+                    "sourceAssetPath": "Assets/_FMC/Textures/HelensCovers/TheLureOfWaterAndWoodFullCover-1024x512-Texture.jpg"
+                },
+                {
+                    "id": 220,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349696,
+                    "offset": 41561440,
+                    "sourceAssetGUID": "94b6379054209db4a8636c6c3854e33d",
+                    "sourceAssetPath": "Assets/_FMC/Textures/portraits/SoujournerTruth.png"
+                },
+                {
+                    "id": 221,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 87580,
+                    "offset": 41911136,
+                    "sourceAssetGUID": "955b6cde1e3b35e4aaf07baac359882b",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Sign_Front.jpg"
+                },
+                {
+                    "id": 222,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174896,
+                    "offset": 41998720,
+                    "sourceAssetGUID": "95b3786cc62f1e342831dc154b8be39b",
+                    "sourceAssetPath": "Assets/_FMC/Textures/FreshBread/Cloths.png"
+                },
+                {
+                    "id": 223,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 158564,
+                    "offset": 42173616,
+                    "sourceAssetGUID": "984330eebef34dc4d9b1cd7cebda3c01",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Lemon Tree/Lemon Branch Normal.png"
+                },
+                {
+                    "id": 224,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 87576,
+                    "offset": 42332192,
+                    "sourceAssetGUID": "991318f28ac1e4a40af589f3a9a427a7",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Wood Old Planks/TexturesCom_Wood_PlanksOld_512_albedo.jpg"
+                },
+                {
+                    "id": 225,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174968,
+                    "offset": 42419776,
+                    "sourceAssetGUID": "99c616fffb0535348852de21d3a6804b",
+                    "sourceAssetPath": "Assets/_FMC/Textures/HelensCovers/OfficerHelgaHedgehogMeetsNeighborsCover.jpg"
+                },
+                {
+                    "id": 226,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349708,
+                    "offset": 42594752,
+                    "sourceAssetGUID": "9bf6759bbe2c58244a0f827628da6e2f",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Kerosene Lamp/Blue/Lamp1_DefaultMaterial_Normal.png"
+                },
+                {
+                    "id": 227,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349716,
+                    "offset": 42944464,
+                    "sourceAssetGUID": "9ce852ea8c7db4a4dbf5da6d6fc159f3",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Sand (Cookie)/TexturesCom_Ground_Mud_2x2_1K_normal.jpg"
+                },
+                {
+                    "id": 228,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349728,
+                    "offset": 43294192,
+                    "sourceAssetGUID": "9de23c8b6a619df47a52ba968013a100",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Dirty Dry Moss/TexturesCom_Ground_DirtyDryMoss_2x2_1K_normal.tif"
+                },
+                {
+                    "id": 229,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349692,
+                    "offset": 43643920,
+                    "sourceAssetGUID": "9f1724ca938b30e48887e9c764489c37",
+                    "sourceAssetPath": "Assets/_FMC/Textures/daisy_IFX.jpg"
+                },
+                {
+                    "id": 230,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349712,
+                    "offset": 43993616,
+                    "sourceAssetGUID": "a0fb71cbb34205f4a81e49e0da231f79",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Cobblestone Base/CobblestoneStreet2_3x3_1K_albedo.jpg"
+                },
+                {
+                    "id": 231,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349704,
+                    "offset": 44343328,
+                    "sourceAssetGUID": "a437c175e0efea4479ec01626e1da76d",
+                    "sourceAssetPath": "Assets/_FMC/Textures/CobblestoneStreet2_rough.jpg"
+                },
+                {
+                    "id": 232,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349716,
+                    "offset": 44693040,
+                    "sourceAssetGUID": "a4e8b89d95a079d4c88434b32e379017",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Lamp1_DefaultMaterial_BaseColor_IFX.png"
+                },
+                {
+                    "id": 233,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349704,
+                    "offset": 45042768,
+                    "sourceAssetGUID": "a52a9724d5c6b914997df516d3acb3f4",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Aboard2high_Normal_IFX.jpg"
+                },
+                {
+                    "id": 234,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174904,
+                    "offset": 45392480,
+                    "sourceAssetGUID": "a60522707ea25dd4e82f972ce21fcc5e",
+                    "sourceAssetPath": "Assets/_FMC/Textures/FreshBread/Bun_Kaiser_02.png"
+                },
+                {
+                    "id": 235,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349676,
+                    "offset": 45567392,
+                    "sourceAssetGUID": "ad0c921fd8d137f4d90b46cdfb41d08f",
+                    "sourceAssetPath": "Assets/_FMC/Textures/winter cabinTextures/smokeDiffuse.png"
+                },
+                {
+                    "id": 236,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349720,
+                    "offset": 45917072,
+                    "sourceAssetGUID": "ad89f38850f86f34eac868207aeb2e99",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Sand (Cookie)/TexturesCom_Ground_Mud_2x2_1K_albedo2.jpg"
+                },
+                {
+                    "id": 237,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349696,
+                    "offset": 46266800,
+                    "sourceAssetGUID": "ae4d77cb33f33154fa0c4b945560977c",
+                    "sourceAssetPath": "Assets/_FMC/Particles/Fire/realistic_smoke.png"
+                },
+                {
+                    "id": 238,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174900,
+                    "offset": 46616496,
+                    "sourceAssetGUID": "ae960503df850a64c8a4cb233bb7c8de",
+                    "sourceAssetPath": "Assets/_FMC/Textures/FreshBread/Flour_Wheat.png"
+                },
+                {
+                    "id": 239,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349704,
+                    "offset": 46791408,
+                    "sourceAssetGUID": "b217df04a2dcdb141b6845a97ed07d40",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Mud_2x2_1K_normal_IFX.jpg"
+                },
+                {
+                    "id": 240,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 4194440,
+                    "offset": 47141120,
+                    "sourceAssetGUID": "b2464dbe5d902ad4f901155a877cbc81",
+                    "sourceAssetPath": "Assets/BakeryLightmaps/Main Scene_LMA2_final.hdr"
+                },
+                {
+                    "id": 241,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 87576,
+                    "offset": 51335568,
+                    "sourceAssetGUID": "b30752e245278ce42bdf151e21d911c5",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Wood Old Planks/TexturesCom_Wood_PlanksOld_512_normal.jpg"
+                },
+                {
+                    "id": 242,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349728,
+                    "offset": 51423152,
+                    "sourceAssetGUID": "b38771462e7a10b4381c91bdaa8fcb46",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Dirty Dry Moss/TexturesCom_Ground_DirtyDryMoss_2x2_1K_albedo.tif"
+                },
+                {
+                    "id": 243,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 87588,
+                    "offset": 51772880,
+                    "sourceAssetGUID": "b53b92c345a35664c918d00b02883d97",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Frog_sign_caption.png"
+                },
+                {
+                    "id": 244,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 158564,
+                    "offset": 51860480,
+                    "sourceAssetGUID": "b546e2259560a7541ad7cb60338d3d7d",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Lemon Tree/Lemon Branch Color.png"
+                },
+                {
+                    "id": 245,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349724,
+                    "offset": 52019056,
+                    "sourceAssetGUID": "b62515a6ab3fec7498590c1d243c6ce9",
+                    "sourceAssetPath": "Assets/_FMC/Materials/snow/TexturesCom_Snow_Detail_0.5x0.5_1K_albedo.tif"
+                },
+                {
+                    "id": 246,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 5592576,
+                    "offset": 52368784,
+                    "sourceAssetGUID": "b81112342c366874885af2b082e7cae4",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Baked Cathedral.jpg"
+                },
+                {
+                    "id": 247,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349712,
+                    "offset": 57961360,
+                    "sourceAssetGUID": "bdffcd8b2ab97dc4cb2933073e5751bf",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Kerosene Lamp/Blue/Lamp1_DefaultMaterial_BaseColor.png"
+                },
+                {
+                    "id": 248,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174944,
+                    "offset": 58311072,
+                    "sourceAssetGUID": "bf38190103148a84f8ec987072200051",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Nimzy 3D framed.png"
+                },
+                {
+                    "id": 249,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349688,
+                    "offset": 58486016,
+                    "sourceAssetGUID": "bfa0e8f4d017ff4409d0e2902fa18764",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Flowers/daisy.jpg"
+                },
+                {
+                    "id": 250,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 1398276,
+                    "offset": 58835712,
+                    "sourceAssetGUID": "c2887b09604673d41a2e0a78a04a6714",
+                    "sourceAssetPath": "Assets/_FMC/Models/Violin/violin-texture/OldViolin_Metallic.png"
+                },
+                {
+                    "id": 251,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 1048712,
+                    "offset": 60234000,
+                    "sourceAssetGUID": "cee601b3892543d4c95120d2b59f2745",
+                    "sourceAssetPath": "Assets/BakeryLightmaps/Main Scene_LMA3_final.hdr"
+                },
+                {
+                    "id": 252,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174916,
+                    "offset": 61282720,
+                    "sourceAssetGUID": "d33982c2e9de21d478fd796df55ec91e",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Pans/pans_metalness_smoothness.tga"
+                },
+                {
+                    "id": 253,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174900,
+                    "offset": 61457648,
+                    "sourceAssetGUID": "d3642b0c8c6c48c49852b4573bbd27d5",
+                    "sourceAssetPath": "Assets/_FMC/Textures/FreshBread/Wreath_02.png"
+                },
+                {
+                    "id": 254,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349704,
+                    "offset": 61632560,
+                    "sourceAssetGUID": "d76cc819495b24f409a9d3283589a633",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Aboard2high_Metallic_IFX.jpg"
+                },
+                {
+                    "id": 255,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349692,
+                    "offset": 61982272,
+                    "sourceAssetGUID": "d81dc5564400e8341a01ed1440a6d5e2",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Grass/Grass_Darker.jpg"
+                },
+                {
+                    "id": 256,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349720,
+                    "offset": 62331968,
+                    "sourceAssetGUID": "d84fa8379399c944bba0432133ff59db",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Old Round Roof/TexturesCom_Roofing_RoundOld_1K_normal.jpg"
+                },
+                {
+                    "id": 257,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 1398272,
+                    "offset": 62681696,
+                    "sourceAssetGUID": "da46040b3a632c94095d19d7443490b4",
+                    "sourceAssetPath": "Assets/_FMC/Models/Violin/violin-texture/OldViolin_Normal.png"
+                },
+                {
+                    "id": 258,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349724,
+                    "offset": 64079968,
+                    "sourceAssetGUID": "dc4be425f5dcab2409aec2cda3df1f6a",
+                    "sourceAssetPath": "Assets/_FMC/Materials/snow/TexturesCom_Snow_Detail_0.5x0.5_1K_normal.tif"
+                },
+                {
+                    "id": 259,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174948,
+                    "offset": 64429696,
+                    "sourceAssetGUID": "dd379489f87404a67922f27115ba5b51",
+                    "sourceAssetPath": "Assets/_FMC/Textures/sign-helenerwin.com.jpeg"
+                },
+                {
+                    "id": 260,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349692,
+                    "offset": 64604656,
+                    "sourceAssetGUID": "ddb64e9e72685e244b7bb9069672de12",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Horse and Carriage/Horse_diff.jpg"
+                },
+                {
+                    "id": 261,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174904,
+                    "offset": 64954352,
+                    "sourceAssetGUID": "ddf9da5e79f5aaf41bfc27bbeccf71c9",
+                    "sourceAssetPath": "Assets/_FMC/Textures/High-Res-Fog_IFX.jpg"
+                },
+                {
+                    "id": 262,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349688,
+                    "offset": 65129264,
+                    "sourceAssetGUID": "de4686edd6ecbee49b6acf3eb048c591",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Cash Register/Diffuse.png"
+                },
+                {
+                    "id": 263,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174948,
+                    "offset": 65478960,
+                    "sourceAssetGUID": "df0f6541ce44c0f4189035699da4ae58",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Cobblestone/CobblestoneWave2_ao.jpg"
+                },
+                {
+                    "id": 264,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349692,
+                    "offset": 65653920,
+                    "sourceAssetGUID": "e1167ebccba42a147ab8bd11dc764bbc",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Horse and Carriage/Horse_bump.jpg"
+                },
+                {
+                    "id": 265,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349732,
+                    "offset": 66003616,
+                    "sourceAssetGUID": "e1357a3e562d3174c96ae8beed10f7da",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Medieval/TexturesCom_Pavement_CobblestoneMedieval22_normal.jpg"
+                },
+                {
+                    "id": 266,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349728,
+                    "offset": 66353360,
+                    "sourceAssetGUID": "e22078bdafc2af04686c95a281f7bef5",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Medieval/TexturesCom_Pavement_CobblestoneMedieval22_ao.jpg"
+                },
+                {
+                    "id": 267,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349700,
+                    "offset": 66703088,
+                    "sourceAssetGUID": "e3348b2ca3d03794db5c407a48ec3a96",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Carriage_diff_IFX.jpg"
+                },
+                {
+                    "id": 268,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349700,
+                    "offset": 67052800,
+                    "sourceAssetGUID": "e3cee37e3d5e4f44ca0fee0f77b0f8fa",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Bookshelf/T_Bookshelf_Glass_D.png"
+                },
+                {
+                    "id": 269,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349696,
+                    "offset": 67402512,
+                    "sourceAssetGUID": "e449e2e6a12178d4a9cf21381a2c8ffb",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Bookshelf/T_Bookshelf_N.png"
+                },
+                {
+                    "id": 270,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349716,
+                    "offset": 67752208,
+                    "sourceAssetGUID": "e518b7af61af3444291bfb1e892416f7",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Lamp1_DefaultMaterial_Roughness_IFX.png"
+                },
+                {
+                    "id": 271,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349692,
+                    "offset": 68101936,
+                    "sourceAssetGUID": "e966fe96fc4c60f4fa9eff9e6d32ba67",
+                    "sourceAssetPath": "Assets/_FMC/Models/Candles/Misc Effects/Textures/CandleFlame.tif"
+                },
+                {
+                    "id": 272,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 626420,
+                    "offset": 68451632,
+                    "sourceAssetGUID": "eaaf37bb9d69448489e4cdc2acec9da3",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Wood Aged/Wood_Aged_1K_normal.jpg"
+                },
+                {
+                    "id": 273,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174896,
+                    "offset": 69078064,
+                    "sourceAssetGUID": "ec66956543288b64a8ae6350c7f22ff8",
+                    "sourceAssetPath": "Assets/_FMC/Textures/FreshBread/Rolls.png"
+                },
+                {
+                    "id": 274,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349692,
+                    "offset": 69252960,
+                    "sourceAssetGUID": "eeab059134c718a41a289eee0e313739",
+                    "sourceAssetPath": "Assets/_FMC/Textures/poppy_IFX.jpg"
+                },
+                {
+                    "id": 275,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174952,
+                    "offset": 69602656,
+                    "sourceAssetGUID": "eec573d4347b8df4090f00ba5a352ac1",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Cobblestone/CobblestoneWave2_albedo.jpg"
+                },
+                {
+                    "id": 276,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174984,
+                    "offset": 69777616,
+                    "sourceAssetGUID": "ef699f89ac4f5c24bbd5336e869f7110",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Brick/Brick Weathered Mossy (1K)/TexturesCom_Wall_BrickWeatheredMossy_5x2.5_1K_roughness.jpg"
+                },
+                {
+                    "id": 277,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349696,
+                    "offset": 69952608,
+                    "sourceAssetGUID": "f06f8a0ebba9eb64c8eefcd8b8fcce49",
+                    "sourceAssetPath": "Assets/_FMC/Textures/cornflower_IFX.jpg"
+                },
+                {
+                    "id": 278,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349700,
+                    "offset": 70302304,
+                    "sourceAssetGUID": "f116e8cb0771b1042a567c33ac9f1599",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Easel/Aboard2high_Metallic.jpg"
+                },
+                {
+                    "id": 279,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174976,
+                    "offset": 70652016,
+                    "sourceAssetGUID": "f2cef502ad8e8e44396b41728a3422ea",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Brick/Brick Weathered Mossy (1K)/TexturesCom_Wall_BrickWeatheredMossy_5x2.5_1K_ao.jpg"
+                },
+                {
+                    "id": 280,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174944,
+                    "offset": 70826992,
+                    "sourceAssetGUID": "f2f05a28fb6a9f948b7220af132b25ad",
+                    "sourceAssetPath": "Assets/_FMC/Textures/LundsSuffrage.png"
+                },
+                {
+                    "id": 281,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 174940,
+                    "offset": 71001936,
+                    "sourceAssetGUID": "f68bfcd80ab70b942b51fbe4b3fec4c4",
+                    "sourceAssetPath": "Assets/_FMC/Textures/CC_Credits.jpg"
+                },
+                {
+                    "id": 282,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349716,
+                    "offset": 71176880,
+                    "sourceAssetGUID": "f79fe5e032052ed459c5fbd83a427043",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Wall Trim (1K)/TexturesCom_Wood_WallTrim_1K_normal.jpg"
+                },
+                {
+                    "id": 283,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349688,
+                    "offset": 71526608,
+                    "sourceAssetGUID": "f9e8e70599f9e174396fbae43104c54c",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Flowers/poppy.jpg"
+                },
+                {
+                    "id": 284,
+                    "type": "UnityEngine.Texture2D",
+                    "packedSize": 349688,
+                    "offset": 71876304,
+                    "sourceAssetGUID": "fc2bc8ec0b8bd50448d783dee70f2446",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Cash Register/Mixed_AO.png"
+                },
+                {
+                    "id": 285,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 70088,
+                    "offset": 72226000,
+                    "sourceAssetGUID": "439dc6060a134784e986f82cccb7edb1",
+                    "sourceAssetPath": "Assets/_FMC/Models/Easel.fbx"
+                },
+                {
+                    "id": 286,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 70088,
+                    "offset": 72296096,
+                    "sourceAssetGUID": "d164844b188d6f844bda5eb6dc97c08d",
+                    "sourceAssetPath": "Assets/_FMC/Models/Easel_IFX.fbx"
+                },
+                {
+                    "id": 287,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 322408,
+                    "offset": 72366192,
+                    "sourceAssetGUID": "408580893d459814d8c2084b932a9958",
+                    "sourceAssetPath": "Assets/_FMC/Models/Cathedral.fbx"
+                },
+                {
+                    "id": 288,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 452,
+                    "offset": 72688608,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 289,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 1676,
+                    "offset": 72689072,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 290,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 1069240,
+                    "offset": 72690752,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 291,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 58576,
+                    "offset": 73760000,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 292,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 125356,
+                    "offset": 73818576,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 293,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 97704,
+                    "offset": 73943936,
+                    "sourceAssetGUID": "907e4d9852bfbde4794cf79c809ea569",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Coffee.fbx"
+                },
+                {
+                    "id": 294,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 164632,
+                    "offset": 74041648,
+                    "sourceAssetGUID": "4018dad9c6f1f254ebfa8b30c4cfad5b",
+                    "sourceAssetPath": "Assets/_FMC/Models/cart.fbx"
+                },
+                {
+                    "id": 295,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 7112,
+                    "offset": 74206288,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 296,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 1096248,
+                    "offset": 74213408,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 297,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 63568,
+                    "offset": 75309664,
+                    "sourceAssetGUID": "8f1484e1b3ceb9c4292433e9d1c640b2",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Kettle.fbx"
+                },
+                {
+                    "id": 298,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 440,
+                    "offset": 75373232,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 299,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 1820,
+                    "offset": 75373680,
+                    "sourceAssetGUID": "ac54af5834ef68d4fa9539d10f98e809",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Colliders.fbx"
+                },
+                {
+                    "id": 300,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 4548,
+                    "offset": 75375504,
+                    "sourceAssetGUID": "d2b7540f8b4969d48add0e84c53d329e",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_BookSourMilk.fbx"
+                },
+                {
+                    "id": 301,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 5492,
+                    "offset": 75380064,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 302,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 7540,
+                    "offset": 75385568,
+                    "sourceAssetGUID": "7b7b9cf705d145c48ba3131e8f6c5c45",
+                    "sourceAssetPath": "Assets/_FMC/Models/Smoke_IFX.fbx"
+                },
+                {
+                    "id": 303,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 7540,
+                    "offset": 75393120,
+                    "sourceAssetGUID": "e31be702334e10a4d96d9753276f7bcf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Smoke.fbx"
+                },
+                {
+                    "id": 304,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 130792,
+                    "offset": 75400672,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 305,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 36004,
+                    "offset": 75531472,
+                    "sourceAssetGUID": "17e47ca5588d37c4f8c6cf7c46e659d3",
+                    "sourceAssetPath": "Assets/_FMC/Models/Flowers/Poppy.fbx"
+                },
+                {
+                    "id": 306,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 36004,
+                    "offset": 75567488,
+                    "sourceAssetGUID": "ea66317d88728154fa227edf21a9f0cb",
+                    "sourceAssetPath": "Assets/_FMC/Models/Poppy_IFX.fbx"
+                },
+                {
+                    "id": 307,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 668,
+                    "offset": 75603504,
+                    "sourceAssetGUID": "ac54af5834ef68d4fa9539d10f98e809",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Colliders.fbx"
+                },
+                {
+                    "id": 308,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 22952,
+                    "offset": 75604176,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 309,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 14160,
+                    "offset": 75627136,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 310,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 153456,
+                    "offset": 75641296,
+                    "sourceAssetGUID": "b4fa81a0acccda54eb785565f13e4832",
+                    "sourceAssetPath": "Assets/_FMC/Models/Violin/OldViolin.fbx"
+                },
+                {
+                    "id": 311,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 1876,
+                    "offset": 75794752,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 312,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 10776,
+                    "offset": 75796640,
+                    "sourceAssetGUID": "ac54af5834ef68d4fa9539d10f98e809",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Colliders.fbx"
+                },
+                {
+                    "id": 313,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 7596,
+                    "offset": 75807424,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 314,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 921632,
+                    "offset": 75815024,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 315,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 78432,
+                    "offset": 76736656,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 316,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 4736,
+                    "offset": 76815088,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 317,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 116080,
+                    "offset": 76819824,
+                    "sourceAssetGUID": "3513b912d6e68f44d9925ca26c119a30",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Cookie.fbx"
+                },
+                {
+                    "id": 318,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 41496,
+                    "offset": 76935904,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 319,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 108220,
+                    "offset": 76977408,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 320,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 29184,
+                    "offset": 77085632,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 321,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 130792,
+                    "offset": 77114816,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 322,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 10348,
+                    "offset": 77245616,
+                    "sourceAssetGUID": "47422950376b0d8458d22d6185bcdcb3",
+                    "sourceAssetPath": "Assets/_FMC/Models/Candles/Misc Effects/Models/Candle.fbx"
+                },
+                {
+                    "id": 323,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 149504,
+                    "offset": 77255968,
+                    "sourceAssetGUID": "ef80fce6f167feb4392b15e0aedf35d2",
+                    "sourceAssetPath": "Assets/_FMC/Models/lemon trees.fbx"
+                },
+                {
+                    "id": 324,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 4624,
+                    "offset": 77405472,
+                    "sourceAssetGUID": "ef80fce6f167feb4392b15e0aedf35d2",
+                    "sourceAssetPath": "Assets/_FMC/Models/lemon trees.fbx"
+                },
+                {
+                    "id": 325,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 3376,
+                    "offset": 77410096,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 326,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 864,
+                    "offset": 77413472,
+                    "sourceAssetGUID": "ac54af5834ef68d4fa9539d10f98e809",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Colliders.fbx"
+                },
+                {
+                    "id": 327,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 604404,
+                    "offset": 77414336,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 328,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 92040,
+                    "offset": 78018752,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 329,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 28164,
+                    "offset": 78110800,
+                    "sourceAssetGUID": "229fd92102b529b49a88850c44c9174d",
+                    "sourceAssetPath": "Assets/_FMC/Models/Flowers/Daisy.fbx"
+                },
+                {
+                    "id": 330,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 39316,
+                    "offset": 78138976,
+                    "sourceAssetGUID": "e46af31fc97b5e645a8724f959b7fbe6",
+                    "sourceAssetPath": "Assets/_FMC/Models/Daisy_IFX.fbx"
+                },
+                {
+                    "id": 331,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 13368,
+                    "offset": 78178304,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 332,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 45656,
+                    "offset": 78191680,
+                    "sourceAssetGUID": "1ec1bb5183fde8848bcd2af97ad44e3b",
+                    "sourceAssetPath": "Assets/_FMC/Models/Nimzy3D Plaque.fbx"
+                },
+                {
+                    "id": 333,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 1087052,
+                    "offset": 78237344,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 334,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 21888,
+                    "offset": 79324400,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 335,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 8640064,
+                    "offset": 79346288,
+                    "sourceAssetGUID": "7c953b42f282415448360624e1e4ab4c",
+                    "sourceAssetPath": "Assets/_FMC/Models/HorseCarriage_IFX.fbx"
+                },
+                {
+                    "id": 336,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 8640064,
+                    "offset": 87986352,
+                    "sourceAssetGUID": "9d0b49377f925a0428fe73f3e08feacf",
+                    "sourceAssetPath": "Assets/_FMC/Models/Horse and Carriage.fbx"
+                },
+                {
+                    "id": 337,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 191040,
+                    "offset": 96626416,
+                    "sourceAssetGUID": "65ade0eb4473d1749b300b7b359fe0b6",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Lamp.fbx"
+                },
+                {
+                    "id": 338,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 130112,
+                    "offset": 96817456,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 339,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 1672,
+                    "offset": 96947568,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 340,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 103296,
+                    "offset": 96949248,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 341,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 93904,
+                    "offset": 97052544,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 342,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 24468,
+                    "offset": 97146448,
+                    "sourceAssetGUID": "ac54af5834ef68d4fa9539d10f98e809",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Colliders.fbx"
+                },
+                {
+                    "id": 343,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 7104,
+                    "offset": 97170928,
+                    "sourceAssetGUID": "ac54af5834ef68d4fa9539d10f98e809",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Colliders.fbx"
+                },
+                {
+                    "id": 344,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 440,
+                    "offset": 97178032,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 345,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 2536,
+                    "offset": 97178480,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 346,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 1508,
+                    "offset": 97181024,
+                    "sourceAssetGUID": "ac54af5834ef68d4fa9539d10f98e809",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Colliders.fbx"
+                },
+                {
+                    "id": 347,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 48720,
+                    "offset": 97182544,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 348,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 10420,
+                    "offset": 97231264,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 349,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 6588,
+                    "offset": 97241696,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 350,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 88476,
+                    "offset": 97248288,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 351,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 3724960,
+                    "offset": 97336768,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 352,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 804,
+                    "offset": 101061728,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 353,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 6436,
+                    "offset": 101062544,
+                    "sourceAssetGUID": "60e5c383b8de073439c592a9f94911f7",
+                    "sourceAssetPath": "Assets/_FMC/Models/Cobblestone_Base.fbx"
+                },
+                {
+                    "id": 354,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 17108,
+                    "offset": 101068992,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 355,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 1272,
+                    "offset": 101086112,
+                    "sourceAssetGUID": "ac54af5834ef68d4fa9539d10f98e809",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Colliders.fbx"
+                },
+                {
+                    "id": 356,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 27964,
+                    "offset": 101087392,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 357,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 130792,
+                    "offset": 101115360,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 358,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 130792,
+                    "offset": 101246160,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 359,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 7796,
+                    "offset": 101376960,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 360,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 440,
+                    "offset": 101384768,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 361,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 70616,
+                    "offset": 101385216,
+                    "sourceAssetGUID": "5814f176f870ee54a81332e8c31bf438",
+                    "sourceAssetPath": "Assets/_FMC/Models/Cornflower_IFX.fbx"
+                },
+                {
+                    "id": 362,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 50056,
+                    "offset": 101455840,
+                    "sourceAssetGUID": "7b195bfc575bf6244b766d0622f7e977",
+                    "sourceAssetPath": "Assets/_FMC/Models/Flowers/Cornflower.fbx"
+                },
+                {
+                    "id": 363,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 549884,
+                    "offset": 101505904,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 364,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 130112,
+                    "offset": 102055792,
+                    "sourceAssetGUID": "7c6a7a99c67441b43a52c4c50e115ed0",
+                    "sourceAssetPath": "Assets/_FMC/Models/ModelT.fbx"
+                },
+                {
+                    "id": 365,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 928,
+                    "offset": 102185904,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 366,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 139888,
+                    "offset": 102186832,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 367,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 130792,
+                    "offset": 102326720,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 368,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 20904,
+                    "offset": 102457520,
+                    "sourceAssetGUID": "d66daa5e05278bd45add12bb58212db9",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Vase.fbx"
+                },
+                {
+                    "id": 369,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 2968,
+                    "offset": 102478432,
+                    "sourceAssetGUID": "ac54af5834ef68d4fa9539d10f98e809",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Colliders.fbx"
+                },
+                {
+                    "id": 370,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 11624,
+                    "offset": 102481408,
+                    "sourceAssetGUID": "966560b9bce8f7447ae7b0293b0f691c",
+                    "sourceAssetPath": "Assets/_FMC/Models/ForemothersCafe.fbx"
+                },
+                {
+                    "id": 371,
+                    "type": "UnityEngine.Mesh",
+                    "packedSize": 12996,
+                    "offset": 102493040,
+                    "sourceAssetGUID": "ac54af5834ef68d4fa9539d10f98e809",
+                    "sourceAssetPath": "Assets/_FMC/Models/FMC_Colliders.fbx"
+                },
+                {
+                    "id": 372,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 187940,
+                    "offset": 102506048,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 373,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 7128,
+                    "offset": 102694000,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 374,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 356,
+                    "offset": 102701136,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 375,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 7732,
+                    "offset": 102701504,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 376,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 8996,
+                    "offset": 102709248,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 377,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 9764,
+                    "offset": 102718256,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 378,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 8884,
+                    "offset": 102728032,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 379,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 8136,
+                    "offset": 102736928,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 380,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 6928,
+                    "offset": 102745072,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 381,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 6264,
+                    "offset": 102752000,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 382,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 6268,
+                    "offset": 102758272,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 383,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 24820,
+                    "offset": 102764544,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 384,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 6988,
+                    "offset": 102789376,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 385,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 8784,
+                    "offset": 102796368,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 386,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 12392,
+                    "offset": 102805152,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 387,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 9064,
+                    "offset": 102817552,
+                    "sourceAssetGUID": "0000000000000000f000000000000000",
+                    "sourceAssetPath": "Resources/unity_builtin_extra"
+                },
+                {
+                    "id": 388,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 720744,
+                    "offset": 102826624,
+                    "sourceAssetGUID": "0a7e590f3cf1d4ee8a8fab5b6eff09ef",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLitAdd.shader"
+                },
+                {
+                    "id": 389,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 98920,
+                    "offset": 103547376,
+                    "sourceAssetGUID": "0f4122b9a743b744abe2fb6a0a88868b",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Nature/SpeedTree7.shader"
+                },
+                {
+                    "id": 390,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 6700,
+                    "offset": 103646304,
+                    "sourceAssetGUID": "20f88871769dee34d88e5862e8e8d1de",
+                    "sourceAssetPath": "Assets/_FMC/Particles/Fire/HDR Particles.shader"
+                },
+                {
+                    "id": 391,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 479696,
+                    "offset": 103653008,
+                    "sourceAssetGUID": "21322c8b137c66e49b86085d3c8161f6",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLitBase.shader"
+                },
+                {
+                    "id": 392,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 53920,
+                    "offset": 104132704,
+                    "sourceAssetGUID": "29868e73b638e48ca99a19ea58c48d90",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Terrain/WavingGrassBillboard.shader"
+                },
+                {
+                    "id": 393,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 5324,
+                    "offset": 104186624,
+                    "sourceAssetGUID": "36e335017ad71d54fbb10842863188ae",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.core/Runtime/RenderPipelineResources/FallbackShader.shader"
+                },
+                {
+                    "id": 394,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 205060,
+                    "offset": 104191952,
+                    "sourceAssetGUID": "5ec81c81908db34429b4f6ddecadd3bd",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Nature/SpeedTree7Billboard.shader"
+                },
+                {
+                    "id": 395,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 721504,
+                    "offset": 104397024,
+                    "sourceAssetGUID": "69c1f799e772cb6438f56c23efccb782",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLit.shader"
+                },
+                {
+                    "id": 396,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 587216,
+                    "offset": 105118528,
+                    "sourceAssetGUID": "8d2bb70cbf9db8d4da26e15b26e74248",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader"
+                },
+                {
+                    "id": 397,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 22564,
+                    "offset": 105705744,
+                    "sourceAssetGUID": "8fbe92a9edfe6074e841d6dd1509bc59",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLitBasemapGen.shader"
+                },
+                {
+                    "id": 398,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 6197184,
+                    "offset": 105728320,
+                    "sourceAssetGUID": "933532a4fcc9baf4fa0491de14d08ed7",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader"
+                },
+                {
+                    "id": 399,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 88664,
+                    "offset": 111925504,
+                    "sourceAssetGUID": "e507fdfead5ca47e8b9a768b51c291a1",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Terrain/WavingGrass.shader"
+                },
+                {
+                    "id": 400,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 6072,
+                    "offset": 112014176,
+                    "sourceAssetGUID": "e6e9a19c3678ded42a3bc431ebef7dbd",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Utils/FallbackError.shader"
+                },
+                {
+                    "id": 401,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 445444,
+                    "offset": 112020256,
+                    "sourceAssetGUID": "ee7e4c9a5f6364b688a332c67fc32cca",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/ComplexLit.shader"
+                },
+                {
+                    "id": 402,
+                    "type": "UnityEngine.Shader",
+                    "packedSize": 46952,
+                    "offset": 112465712,
+                    "sourceAssetGUID": "f6783ab646d374f94b199774402a5144",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainDetailLit.shader"
+                },
+                {
+                    "id": 403,
+                    "type": "UnityEngine.AnimationClip",
+                    "packedSize": 2740,
+                    "offset": 112512672,
+                    "sourceAssetGUID": "8dd15a892ca469243b4dd41184a63c91",
+                    "sourceAssetPath": "Assets/_FMC/Anim/ModelT Wheels.anim"
+                },
+                {
+                    "id": 404,
+                    "type": "UnityEngine.AnimationClip",
+                    "packedSize": 2636,
+                    "offset": 112515424,
+                    "sourceAssetGUID": "179c189a4c71f2944ae7fc3d66ca6368",
+                    "sourceAssetPath": "Assets/_FMC/Anim/ModelT.anim"
+                },
+                {
+                    "id": 405,
+                    "type": "UnityEngine.AnimationClip",
+                    "packedSize": 2500,
+                    "offset": 112518064,
+                    "sourceAssetGUID": "10bb294991b237e4aad773b7c560bf4f",
+                    "sourceAssetPath": "Assets/_FMC/Anim/Steam.anim"
+                },
+                {
+                    "id": 406,
+                    "type": "UnityEngine.AudioClip",
+                    "packedSize": 200,
+                    "offset": 112520576,
+                    "sourceAssetGUID": "1364c96f5a9d20f4396e17047e5afdf9",
+                    "sourceAssetPath": "Assets/_FMC/Audio/ModelTHornOnly.mp3"
+                },
+                {
+                    "id": 407,
+                    "type": "UnityEngine.AudioClip",
+                    "packedSize": 204,
+                    "offset": 112520784,
+                    "sourceAssetGUID": "5f0e4731f26a8b6448d8536283b7198b",
+                    "sourceAssetPath": "Assets/_FMC/Audio/HorseCartKoltrast.mp3"
+                },
+                {
+                    "id": 408,
+                    "type": "UnityEngine.AudioClip",
+                    "packedSize": 204,
+                    "offset": 112520992,
+                    "sourceAssetGUID": "7a40e13444b33064ba6776e54e50c057",
+                    "sourceAssetPath": "Assets/_FMC/Audio/ModelTSound-NoHorn.mp3"
+                },
+                {
+                    "id": 409,
+                    "type": "UnityEngine.Cubemap",
+                    "packedSize": 63280,
+                    "offset": 112521200,
+                    "sourceAssetGUID": "59345529902df6e4ea9ba6f0452d03c1",
+                    "sourceAssetPath": "Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/Main Scene/ReflectionProbe-10.exr"
+                },
+                {
+                    "id": 410,
+                    "type": "UnityEngine.Cubemap",
+                    "packedSize": 63280,
+                    "offset": 112584480,
+                    "sourceAssetGUID": "6424b2df60ac9764e857bb8ac970391c",
+                    "sourceAssetPath": "Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/Main Scene/ReflectionProbe-11.exr"
+                },
+                {
+                    "id": 411,
+                    "type": "UnityEngine.Cubemap",
+                    "packedSize": 1573072,
+                    "offset": 112647760,
+                    "sourceAssetGUID": "66e51860485ae4048a30f7e029e65af7",
+                    "sourceAssetPath": "Assets/_FMC/Skybox/Deep Dusk Equirect.png"
+                },
+                {
+                    "id": 412,
+                    "type": "UnityEngine.Cubemap",
+                    "packedSize": 63280,
+                    "offset": 114220832,
+                    "sourceAssetGUID": "b49d2ea08262ff24daf81f1cab61133f",
+                    "sourceAssetPath": "Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/Main Scene/ReflectionProbe-12.exr"
+                },
+                {
+                    "id": 413,
+                    "type": "UnityEditor.Animations.AnimatorController",
+                    "packedSize": 428,
+                    "offset": 114284112,
+                    "sourceAssetGUID": "589b08067d937ab41be88077715896e7",
+                    "sourceAssetPath": "Assets/_FMC/Anim/Model T Path Origin.controller"
+                },
+                {
+                    "id": 414,
+                    "type": "UnityEditor.Animations.AnimatorController",
+                    "packedSize": 412,
+                    "offset": 114284544,
+                    "sourceAssetGUID": "a0b100870913bf043a43586123963665",
+                    "sourceAssetPath": "Assets/_FMC/Anim/smoke.controller"
+                },
+                {
+                    "id": 415,
+                    "type": "UnityEditor.Animations.AnimatorController",
+                    "packedSize": 428,
+                    "offset": 114284960,
+                    "sourceAssetGUID": "b96fc45f9938f34419ef24d64bb8b37c",
+                    "sourceAssetPath": "Assets/_FMC/Anim/wheels 1.controller"
+                },
+                {
+                    "id": 416,
+                    "type": "UnityEditor.MonoScript",
+                    "packedSize": 164,
+                    "offset": 154112,
+                    "sourceAssetGUID": "474bcb49853aa07438625e644c072ee6",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Runtime/UniversalAdditionalLightData.cs"
+                },
+                {
+                    "id": 417,
+                    "type": "UnityEditor.MonoScript",
+                    "packedSize": 92,
+                    "offset": 154288,
+                    "sourceAssetGUID": "a28e27cacfc7e70479097f0a63c37217",
+                    "sourceAssetPath": "Assets/Bakery/BakeryLightMesh.cs"
+                },
+                {
+                    "id": 418,
+                    "type": "UnityEditor.MonoScript",
+                    "packedSize": 172,
+                    "offset": 154384,
+                    "sourceAssetGUID": "a79441f348de89743a2939f4d699eac1",
+                    "sourceAssetPath": "Packages/com.unity.render-pipelines.universal/Runtime/UniversalAdditionalCameraData.cs"
+                },
+                {
+                    "id": 419,
+                    "type": "UnityEditor.MonoScript",
+                    "packedSize": 100,
+                    "offset": 154560,
+                    "sourceAssetGUID": "b7fa80e7116296f4eb4f49ec1544ee22",
+                    "sourceAssetPath": "Assets/Bakery/ftLightmapsStorage.cs"
+                },
+                {
+                    "id": 420,
+                    "type": "UnityEditor.MonoScript",
+                    "packedSize": 100,
+                    "offset": 154672,
+                    "sourceAssetGUID": "c74ce2158ae608549902afb4112fd042",
+                    "sourceAssetPath": "Assets/Bakery/BakeryDirectLight.cs"
+                },
+                {
+                    "id": 421,
+                    "type": "UnityEngine.LightProbes",
+                    "packedSize": 45,
+                    "offset": 114285392,
+                    "sourceAssetGUID": "e4640650ef0ea5d49a8e99a401628d8a",
+                    "sourceAssetPath": "Assets/BakeryLightmaps/Main Scene_371857150_probes.asset"
+                },
+                {
+                    "id": 422,
+                    "type": "UnityEngine.Object",
+                    "packedSize": 1110464,
+                    "offset": 114285440,
+                    "sourceAssetGUID": "c0ed106163f021344bde558d1f26a5ca",
+                    "sourceAssetPath": "Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/Main Scene/OcclusionCullingData.asset"
+                },
+                {
+                    "id": 423,
+                    "type": "UnityEngine.LightingSettings",
+                    "packedSize": 40,
+                    "offset": 115395904,
+                    "sourceAssetGUID": "b74aef0ca1fc6a244a73c6f2400cc340",
+                    "sourceAssetPath": "Assets/_FMC/Scenes/LightmapDependencies/Foremothers Cafe.lighting"
+                },
+                {
+                    "id": 424,
+                    "type": "UnityEngine.TerrainLayer",
+                    "packedSize": 160,
+                    "offset": 115395952,
+                    "sourceAssetGUID": "a32c180f893aeb74cb478ffc9263ab94",
+                    "sourceAssetPath": "Assets/_FMC/Materials/Grass/NewLayer.terrainlayer"
+                },
+                {
+                    "id": 425,
+                    "type": "UnityEngine.TerrainLayer",
+                    "packedSize": 160,
+                    "offset": 115396112,
+                    "sourceAssetGUID": "5f81221e0f0e4de4baf3bd8cb502f8df",
+                    "sourceAssetPath": "Assets/_FMC/Materials/NewLayer.terrainlayer"
+                },
+                {
+                    "id": 426,
+                    "type": "UnityEngine.TerrainLayer",
+                    "packedSize": 172,
+                    "offset": 115396272,
+                    "sourceAssetGUID": "a70a5c43b8ea6de4497e69932f79242b",
+                    "sourceAssetPath": "Assets/_FMC/Textures/Dirty Dry Moss/Terrain_DirtyDryMoss.terrainlayer"
+                },
+                {
+                    "id": 427,
+                    "type": "UnityEngine.TerrainData",
+                    "packedSize": 551268,
+                    "offset": 115396448,
+                    "sourceAssetGUID": "a9c8ecc9e8c3efc4195fc82657d96262",
+                    "sourceAssetPath": "Assets/_FMC/FMC Terrain.asset"
+                }
+            ]
+        },
+        {
+            "shortPath": "BuildPlayer-e08de843b99d4c95850967cc5c340fba20260919.resource",
+            "overhead": 0,
+            "contents": [
+                {
+                    "id": 0,
+                    "type": "UnityEngine.AudioClip",
+                    "packedSize": 14304,
+                    "offset": 0,
+                    "sourceAssetGUID": "1364c96f5a9d20f4396e17047e5afdf9",
+                    "sourceAssetPath": "Assets/_FMC/Audio/ModelTHornOnly.mp3"
+                },
+                {
+                    "id": 0,
+                    "type": "UnityEngine.AudioClip",
+                    "packedSize": 2046720,
+                    "offset": 14304,
+                    "sourceAssetGUID": "5f0e4731f26a8b6448d8536283b7198b",
+                    "sourceAssetPath": "Assets/_FMC/Audio/HorseCartKoltrast.mp3"
+                },
+                {
+                    "id": 0,
+                    "type": "UnityEngine.AudioClip",
+                    "packedSize": 303168,
+                    "offset": 2061024,
+                    "sourceAssetGUID": "7a40e13444b33064ba6776e54e50c057",
+                    "sourceAssetPath": "Assets/_FMC/Audio/ModelTSound-NoHorn.mp3"
+                }
+            ]
+        },
+        {
+            "shortPath": "CAB-e4ba7dbec84ca82e006b0387f14d1c10",
+            "overhead": 4040,
+            "contents": [
+                {
+                    "id": 1,
+                    "type": "UnityEngine.AssetBundle",
+                    "packedSize": 104,
+                    "offset": 4032,
+                    "sourceAssetGUID": "00000000000000000000000000000000",
+                    "sourceAssetPath": "AssetBundle Object"
+                },
+                {
+                    "id": 2,
+                    "type": "UnityEngine.AssetBundleManifest",
+                    "packedSize": 108,
+                    "offset": 4144,
+                    "sourceAssetGUID": "00000000000000000000000000000000",
+                    "sourceAssetPath": "Built-in AssetBundleManifest: AssetBundleManifest"
+                }
+            ]
+        }
+    ]
+}
