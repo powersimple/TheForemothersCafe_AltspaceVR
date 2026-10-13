@@ -32,6 +32,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Book - Sour Milk
+    second: {fileID: 2100000, guid: a4d36ded035d0ce4d89c53dd76858e7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Brushed Metal
     second: {fileID: 2100000, guid: 771cc90e91314fd4d828c8989bfe85ca, type: 2}
   - first:
@@ -122,6 +127,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Old Brass
+    second: {fileID: 2100000, guid: 7bca59cc43e562d4b9ecc7049803340f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Porcelain
     second: {fileID: 2100000, guid: 6e5742fcf4702b640b77584360c41b88, type: 2}
   - first:
@@ -179,9 +189,14 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Wreath_Light
     second: {fileID: 2100000, guid: 566b1c557abb1cc43a789c048e2898da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sign-helenerwin.com
+    second: {fileID: 2100000, guid: 27500139c5d3649a39c57a1341b5198c, type: 2}
   materials:
     materialImportMode: 2
-    materialName: 0
+    materialName: 1
     materialSearch: 2
     materialLocation: 1
     searchTexturesGlobally: 0
