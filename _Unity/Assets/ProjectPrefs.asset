@@ -16,12 +16,12 @@ MonoBehaviour:
   - Key: BanterBuilder_SelectedKitObjects
     Type: 3
     Value: 
-  - Key: BanterBuilder_ScenePath
-    Type: 3
-    Value: Assets/_FMC/Scenes/readyplayergolf-scene-foremotherscafe-1/Main Scene.unity
   - Key: BanterBuilder_selectedWorldId
     Type: 3
     Value: 855
   - Key: BanterBuilder_AutoUpload
     Type: 0
     Value: True
+  - Key: BanterBuilder_ScenePath
+    Type: 3
+    Value: Assets/_FMC/Scenes/_FMC-Main.unity
